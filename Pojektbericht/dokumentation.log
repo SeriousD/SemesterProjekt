@@ -1,0 +1,1658 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.11)  8 NOV 2016 00:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dokumentation.tex
+(./dokumentation.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2013/12/13 v2.7 German support for babel (new orthography)
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+\l@nswissgerman = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 88.
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count88
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen104
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks20
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks21
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks22
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count102
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen115
+\pgfutil@tempdimb=\dimen116
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box28
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks30
+))
+\pgf@x=\dimen117
+\pgf@y=\dimen118
+\pgf@xa=\dimen119
+\pgf@ya=\dimen120
+\pgf@xb=\dimen121
+\pgf@yb=\dimen122
+\pgf@xc=\dimen123
+\pgf@yc=\dimen124
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count103
+\c@pgf@countb=\count104
+\c@pgf@countc=\count105
+\c@pgf@countd=\count106
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count107
+\pgfsyssoftpath@bigbuffer@items=\count108
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen125
+\pgfmath@count=\count109
+\pgfmath@box=\box29
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count110
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen126
+\pgf@picmaxx=\dimen127
+\pgf@picminy=\dimen128
+\pgf@picmaxy=\dimen129
+\pgf@pathminx=\dimen130
+\pgf@pathmaxx=\dimen131
+\pgf@pathminy=\dimen132
+\pgf@pathmaxy=\dimen133
+\pgf@xx=\dimen134
+\pgf@xy=\dimen135
+\pgf@yx=\dimen136
+\pgf@yy=\dimen137
+\pgf@zx=\dimen138
+\pgf@zy=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen140
+\pgf@path@lasty=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen142
+\pgf@shorten@start@additional=\dimen143
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box30
+\pgf@hbox=\box31
+\pgf@layerbox@main=\box32
+\pgf@picture@serial@count=\count111
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen144
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen145
+\pgf@pt@y=\dimen146
+\pgf@pt@temp=\dimen147
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen148
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen149
+\pgf@sys@shading@range@num=\count112
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box33
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box34
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen150
+\pgf@nodesepend=\dimen151
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen152
+\pgffor@skip=\dimen153
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count113
+\pgfplotmarksize=\dimen154
+)
+\tikz@lastx=\dimen155
+\tikz@lasty=\dimen156
+\tikz@lastxsaved=\dimen157
+\tikz@lastysaved=\dimen158
+\tikzleveldistance=\dimen159
+\tikzsiblingdistance=\dimen160
+\tikz@figbox=\box35
+\tikz@figbox@bg=\box36
+\tikz@tempbox=\box37
+\tikz@tempbox@bg=\box38
+\tikztreelevel=\count114
+\tikznumberofchildren=\count115
+\tikznumberofcurrentchild=\count116
+\tikz@fig@count=\count117
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count118
+\pgfmatrixcurrentcolumn=\count119
+\pgf@matrix@numberofcolumns=\count120
+)
+\tikz@expandcount=\count121
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count122
+\calc@Bcount=\count123
+\calc@Adimen=\dimen161
+\calc@Bdimen=\dimen162
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count124
+\calc@Cskip=\skip48
+)
+\c@@todonotes@numberoftodonotes=\count125
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count126
+\float@exts=\toks39
+\float@box=\box39
+\@float@everytoks=\toks40
+\@floatcapt=\box40
+)
+(/usr/share/texlive/texmf-dist/tex/latex/floatflt/floatflt.sty
+Package: floatflt 1997/07/16 v. 1.31
+\c@OptionTest=\count127
+\figbox=\box41
+\tabbox=\box42
+\pagebox=\box43
+\ffigcount=\count128
+\ftabcount=\count129
+\fftest=\count130
+\hangcount=\count131
+\nosuccesstryfig=\count132
+\nosuccesstrytab=\count133
+\figgutter=\dimen163
+\tabgutter=\dimen164
+\htdone=\dimen165
+\pageht=\dimen166
+\startpageht=\dimen167
+\tabbredd=\dimen168
+\floatfltwidth=\dimen169
+\fltitemwidth=\dimen170
+\outputpretest=\toks41
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip49
+\f@ncyO@elh=\skip50
+\f@ncyO@erh=\skip51
+\f@ncyO@olh=\skip52
+\f@ncyO@orh=\skip53
+\f@ncyO@elf=\skip54
+\f@ncyO@erf=\skip55
+\f@ncyO@olf=\skip56
+\f@ncyO@orf=\skip57
+)
+(./dokumentation.aux)
+\openout1 = `dokumentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+ (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+) (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count134
+\scratchdimen=\dimen171
+\scratchbox=\box44
+\nofMPsegments=\count135
+\nofMParguments=\count136
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count137
+\MPscratchDim=\dimen172
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
+\everyMPtoPDFconversion=\toks43
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./dokumentation.toc)
+\tf@toc=\write4
+\openout4 = `dokumentation.toc'.
+
+ [1]
+(./einleitung.tex) (./uebertragsungsverfahren.tex
+Overfull \hbox (0.60152pt too wide) in paragraph at lines 2--1
+\OT1/cmr/m/n/12 Im Hoch-span-nungs-la-bor des Fach-be-reichs In-for-ma-tik und 
+Elek-tro-tech-nik wer-
+ []
+
+
+Overfull \hbox (7.55977pt too wide) in paragraph at lines 6--8
+\OT1/cmr/m/n/12 len-lei-ters er-for-dert ei-ne Ka-li-bra-ti-on auf ver-schie-de
+-ne L[]angen der []Ubertragungs-
+ []
+
+(./fm.tex
+\gptboxheight=\skip58
+\gptboxwidth=\skip59
+\gptboxtext=\box45
+Package epstopdf Info: Source file: <fm.eps>
+(epstopdf)                    date: 2016-10-21 20:45:45
+(epstopdf)                    size: 54010 bytes
+(epstopdf)             Output file: <fm-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-21 20:46:31
+(epstopdf)                    size: 11380 bytes
+(epstopdf)             Command: <repstopdf --outfile=fm-eps-converted-to.pdf fm
+.eps>
+(epstopdf)             \includegraphics on input line 198.
+Package epstopdf Info: Output file is already uptodate.
+ <fm-eps-converted-to.pdf, id=16, 578.16pt x 433.62pt>
+File: fm-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fm-eps-converted-to.pdf>
+Package pdftex.def Info: fm-eps-converted-to.pdf used on input line 198.
+(pdftex.def)             Requested size: 578.15858pt x 433.61894pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\@imakepicbox ...t@ #1\unitlength {\mb@l #4\mb@r }
+                                                  \mb@b \kern \z@ }
+l.199     \gplfronttext
+                       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.199     \gplfronttext
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\@imakepicbox ...t@ #1\unitlength {\mb@l #4\mb@r }
+                                                  \mb@b \kern \z@ }
+l.199     \gplfronttext
+                       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.199     \gplfronttext
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\@imakepicbox ...t@ #1\unitlength {\mb@l #4\mb@r }
+                                                  \mb@b \kern \z@ }
+l.199     \gplfronttext
+                       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.199     \gplfronttext
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+Overfull \hbox (14.6994pt too wide) in paragraph at lines 11--12
+ [][] 
+ []
+
+[2] (./am.tex
+Package epstopdf Info: Source file: <am.eps>
+(epstopdf)                    date: 2016-10-21 20:45:46
+(epstopdf)                    size: 53885 bytes
+(epstopdf)             Output file: <am-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-21 20:46:32
+(epstopdf)                    size: 11233 bytes
+(epstopdf)             Command: <repstopdf --outfile=am-eps-converted-to.pdf am
+.eps>
+(epstopdf)             \includegraphics on input line 198.
+Package epstopdf Info: Output file is already uptodate.
+ <am-eps-converted-to.pdf, id=20, 578.16pt x 433.62pt>
+File: am-eps-converted-to.pdf Graphic file (type pdf)
+
+<use am-eps-converted-to.pdf>
+Package pdftex.def Info: am-eps-converted-to.pdf used on input line 198.
+(pdftex.def)             Requested size: 578.15858pt x 433.61894pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\@imakepicbox ...t@ #1\unitlength {\mb@l #4\mb@r }
+                                                  \mb@b \kern \z@ }
+l.199     \gplfronttext
+                       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.199     \gplfronttext
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\@imakepicbox ...t@ #1\unitlength {\mb@l #4\mb@r }
+                                                  \mb@b \kern \z@ }
+l.199     \gplfronttext
+                       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.199     \gplfronttext
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\@imakepicbox ...t@ #1\unitlength {\mb@l #4\mb@r }
+                                                  \mb@b \kern \z@ }
+l.199     \gplfronttext
+                       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.199     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.199     \gplfronttext
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+Overfull \hbox (14.6994pt too wide) in paragraph at lines 21--22
+ [][] 
+ []
+
+[3 <./fm-eps-converted-to.pdf>]
+Overfull \hbox (4.36899pt too wide) in paragraph at lines 25--28
+\OT1/cmr/m/n/12 por-tio-nal zum Nach-rich-ten-si-gnal. Ei-ne Am-pli-tu-den-mo-d
+u-la-ti-on l[]asst sich durch
+ []
+
+(./pwm.tex
+Package epstopdf Info: Source file: <pwm.eps>
+(epstopdf)                    date: 2016-10-21 20:45:47
+(epstopdf)                    size: 52832 bytes
+(epstopdf)             Output file: <pwm-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-21 20:46:32
+(epstopdf)                    size: 9243 bytes
+(epstopdf)             Command: <repstopdf --outfile=pwm-eps-converted-to.pdf p
+wm.eps>
+(epstopdf)             \includegraphics on input line 194.
+Package epstopdf Info: Output file is already uptodate.
+ <pwm-eps-converted-to.pdf, id=28, 578.16pt x 433.62pt>
+File: pwm-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pwm-eps-converted-to.pdf>
+Package pdftex.def Info: pwm-eps-converted-to.pdf used on input line 194.
+(pdftex.def)             Requested size: 578.15858pt x 433.61894pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.195     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\@imakepicbox ...t@ #1\unitlength {\mb@l #4\mb@r }
+                                                  \mb@b \kern \z@ }
+l.195     \gplfronttext
+                       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.195     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.195     \gplfronttext
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.195     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\@imakepicbox ...t@ #1\unitlength {\mb@l #4\mb@r }
+                                                  \mb@b \kern \z@ }
+l.195     \gplfronttext
+                       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.195     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.195     \gplfronttext
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.195     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\@imakepicbox ...t@ #1\unitlength {\mb@l #4\mb@r }
+                                                  \mb@b \kern \z@ }
+l.195     \gplfronttext
+                       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.195     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.195     \gplfronttext
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+Overfull \hbox (21.27928pt too wide) in paragraph at lines 35--36
+ [][] 
+ []
+
+[4 <./am-eps-converted-to.pdf>] [5 <./pwm-eps-converted-to.pdf>]
+(./prinzip.pdf_tex <prinzip.pdf, id=39, page=1, 387.046pt x 41.756pt>
+File: prinzip.pdf Graphic file (type pdf)
+
+<use prinzip.pdf, page 1>
+Package pdftex.def Info: prinzip.pdf, page1 used on input line 53.
+(pdftex.def)             Requested size: 387.046pt x 41.75714pt.
+ <prinzip.pdf, id=40, page=2, 387.046pt x 41.756pt>
+File: prinzip.pdf Graphic file (type pdf)
+
+<use prinzip.pdf, page 2>
+Package pdftex.def Info: prinzip.pdf, page2 used on input line 55.
+(pdftex.def)             Requested size: 387.046pt x 41.75714pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ...mall}\end{centering}\\ \\ \end{minipage}}}
+                                                  %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<prinzip.pdf, id=41, page=3, 387.046pt x 41.756pt>
+File: prinzip.pdf Graphic file (type pdf)
+ <use prinzip.pdf, page 3>
+Package pdftex.def Info: prinzip.pdf, page3 used on input line 58.
+(pdftex.def)             Requested size: 387.046pt x 41.75714pt.
+
+<prinzip.pdf, id=42, page=4, 387.046pt x 41.756pt>
+File: prinzip.pdf Graphic file (type pdf)
+ <use prinzip.pdf, page 4>
+Package pdftex.def Info: prinzip.pdf, page4 used on input line 60.
+(pdftex.def)             Requested size: 387.046pt x 41.75714pt.
+)
+(./systemaufbau.pdf_tex
+<systemaufbau.pdf, id=43, page=1, 395.4933pt x 167.87126pt>
+File: systemaufbau.pdf Graphic file (type pdf)
+
+<use systemaufbau.pdf, page 1>
+Package pdftex.def Info: systemaufbau.pdf, page1 used on input line 52.
+(pdftex.def)             Requested size: 395.4933pt x 167.88107pt.
+
+<systemaufbau.pdf, id=44, page=2, 395.4933pt x 167.87126pt>
+File: systemaufbau.pdf Graphic file (type pdf)
+
+<use systemaufbau.pdf, page 2>
+Package pdftex.def Info: systemaufbau.pdf, page2 used on input line 54.
+(pdftex.def)             Requested size: 395.4933pt x 167.88107pt.
+
+<systemaufbau.pdf, id=45, page=3, 395.4933pt x 167.87126pt>
+File: systemaufbau.pdf Graphic file (type pdf)
+
+<use systemaufbau.pdf, page 3>
+Package pdftex.def Info: systemaufbau.pdf, page3 used on input line 56.
+(pdftex.def)             Requested size: 395.4933pt x 167.88107pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ...tering Eingangs-\\\\ stufe\end{minipage}}}
+                                                  %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...ng Dreiecks-\\\\ generator\end{minipage}}}
+                                                  %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 ...tering Dioden-\\\\ treiber\end{minipage}}}
+                                                  %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...ng Lichtwellen-\\\\ leiter\end{minipage}}}
+                                                  %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ... Butterworth-\\\\ tiefpass\end{minipage}}}
+                                                  %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 ...g Signal-\\\\ aufbereitung\end{minipage}}}
+                                                  %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (1.06636pt too wide) in paragraph at lines 65--65
+ []\OT1/cmr/m/n/12 aufbereitung 
+ []
+
+
+Overfull \hbox (10.82861pt too wide) in paragraph at lines 66--66
+[]\OT1/cmr/m/n/12 Empfangseinheit:  
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 ...ng Lichtwellen-\\\\ leiter\end{minipage}}}
+                                                  %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+Overfull \hbox (5.4933pt too wide) in paragraph at lines 69--60
+ [][] 
+ []
+
+
+Overfull \hbox (17.38606pt too wide) in paragraph at lines 53--62
+\OT1/cmr/m/n/12 dem-nach un-emp-find-lich ge-gen[]uber Va-ria-tio-nen der D[]am
+pfung der Lei-tungsl[]ange.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+[6 <./prinzip.pdf> <./prinzip.pdf
+
+pdfTeX warning: pdflatex (file ./prinzip.pdf): PDF inclusion: multiple pdfs wit
+h page group included in a single page
+> <./prinzip.pdf
+
+pdfTeX warning: pdflatex (file ./prinzip.pdf): PDF inclusion: multiple pdfs wit
+h page group included in a single page
+> <./prinzip.pdf
+
+pdfTeX warning: pdflatex (file ./prinzip.pdf): PDF inclusion: multiple pdfs wit
+h page group included in a single page
+> <./systemaufbau.pdf
+
+pdfTeX warning: pdflatex (file ./systemaufbau.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./systemaufbau.pdf
+
+pdfTeX warning: pdflatex (file ./systemaufbau.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./systemaufbau.pdf
+
+pdfTeX warning: pdflatex (file ./systemaufbau.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+>] (./pwmArea.tex
+Package epstopdf Info: Source file: <pwmArea.eps>
+(epstopdf)                    date: 2016-10-28 01:05:15
+(epstopdf)                    size: 209400 bytes
+(epstopdf)             Output file: <pwmArea-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-10-28 01:05:49
+(epstopdf)                    size: 4476 bytes
+(epstopdf)             Command: <repstopdf --outfile=pwmArea-eps-converted-to.p
+df pwmArea.eps>
+(epstopdf)             \includegraphics on input line 122.
+Package epstopdf Info: Output file is already uptodate.
+ <pwmArea-eps-converted-to.pdf, id=75, 578.16pt x 216.81pt>
+File: pwmArea-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pwmArea-eps-converted-to.pdf>
+Package pdftex.def Info: pwmArea-eps-converted-to.pdf used on input line 122.
+(pdftex.def)             Requested size: 578.15858pt x 216.80946pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.123     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\@imakepicbox ...t@ #1\unitlength {\mb@l #4\mb@r }
+                                                  \mb@b \kern \z@ }
+l.123     \gplfronttext
+                       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.123     \gplfronttext
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.123     \gplfronttext
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+) [7 <./pwmArea-eps-converted-to.pdf>]) (./projektstruktur.tex
+(./projektstruktur.pdf_tex
+<projektstruktur.pdf, id=86, page=1, 320.39702pt x 212.795pt>
+File: projektstruktur.pdf Graphic file (type pdf)
+
+<use projektstruktur.pdf, page 1>
+Package pdftex.def Info: projektstruktur.pdf, page1 used on input line 52.
+(pdftex.def)             Requested size: 320.39699pt x 212.80745pt.
+
+<projektstruktur.pdf, id=87, page=2, 320.39702pt x 212.795pt>
+File: projektstruktur.pdf Graphic file (type pdf)
+
+<use projektstruktur.pdf, page 2>
+Package pdftex.def Info: projektstruktur.pdf, page2 used on input line 54.
+(pdftex.def)             Requested size: 320.39699pt x 212.80745pt.
+)) (./vcc.tex
+<gfx/vcc.pdf, id=88, 766.06201pt x 366.97101pt>
+File: gfx/vcc.pdf Graphic file (type pdf)
+ <use gfx/vcc.pdf>
+Package pdftex.def Info: gfx/vcc.pdf used on input line 4.
+(pdftex.def)             Requested size: 170.71652pt x 81.77538pt.
+
+Overfull \hbox (3.39844pt too wide) in paragraph at lines 4--5
+[][] 
+ []
+
+Package floatflt Message: Floating figure 1 set on page 8
+) (./eingangstufe.tex
+Overfull \hbox (4.79779pt too wide) in paragraph at lines 8--1
+\OT1/cmr/m/n/12 de-ein-heit er-folgt zur gal-va-ni-schen Tren-
+ []
+
+
+Overfull \hbox (1.30702pt too wide) in paragraph at lines 8--1
+\OT1/cmr/m/n/12 nung []uber Bat-te-ri-en. Auf-grund der ho-
+ []
+
+<gfx/eingangstufe.pdf, id=89, 692.98903pt x 171.039pt>
+File: gfx/eingangstufe.pdf Graphic file (type pdf)
+
+<use gfx/eingangstufe.pdf>
+Package pdftex.def Info: gfx/eingangstufe.pdf used on input line 4.
+(pdftex.def)             Requested size: 381.14514pt x 94.07173pt.
+ [8 <./projektstruktur.pdf> <./projektstruktur.pdf
+
+pdfTeX warning: pdflatex (file ./projektstruktur.pdf): PDF inclusion: multiple 
+pdfs with page group included in a single page
+> <./gfx/vcc.pdf
+
+pdfTeX warning: pdflatex (file ./gfx/vcc.pdf): PDF inclusion: multiple pdfs wit
+h page group included in a single page
+>]) (./millerintegrator.tex
+<gfx/triangle_generator.pdf, id=153, 702.625pt x 286.671pt>
+File: gfx/triangle_generator.pdf Graphic file (type pdf)
+
+<use gfx/triangle_generator.pdf>
+Package pdftex.def Info: gfx/triangle_generator.pdf used on input line 4.
+(pdftex.def)             Requested size: 386.44493pt x 157.66953pt.
+ [9 <./gfx/eingangstufe.pdf>]) (./comp.tex
+[10 <./gfx/triangle_generator.pdf>]
+
+Package floatflt Warning: Floating figures 1 and 2 colliding.
+
+<gfx/comp.pdf, id=173, 625.53702pt x 146.14601pt>
+File: gfx/comp.pdf Graphic file (type pdf)
+ <use gfx/comp.pdf>
+Package pdftex.def Info: gfx/comp.pdf used on input line 4.
+(pdftex.def)             Requested size: 170.71652pt x 39.88364pt.
+
+Overfull \hbox (3.39844pt too wide) in paragraph at lines 4--5
+[][] 
+ []
+
+Package floatflt Message: Floating figure 2 set on page 11
+) (./diodentreiber.tex
+Overfull \hbox (0.13203pt too wide) in paragraph at lines 8--1
+\OT1/cmr/m/n/12 zur Puls-wei-ten-mo-du-la-ti-on. Im we-sent-
+ []
+
+
+Overfull \hbox (3.22697pt too wide) in paragraph at lines 8--1
+\OT1/cmr/m/n/12 li-chen ver-gleicht die-se Kom-po-nen-te das
+ []
+
+
+Overfull \hbox (4.07869pt too wide) in paragraph at lines 8--1
+\OT1/cmr/m/n/12 da-mit die PWM(vgl. Ab-bil-dung 3[]). Die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--1
+
+ []
+
+<gfx/diodentreiber.pdf, id=174, 530.78299pt x 510.708pt>
+File: gfx/diodentreiber.pdf Graphic file (type pdf)
+
+<use gfx/diodentreiber.pdf>
+Package pdftex.def Info: gfx/diodentreiber.pdf used on input line 4.
+(pdftex.def)             Requested size: 170.71652pt x 164.25592pt.
+
+Overfull \hbox (200.34134pt too wide) in paragraph at lines 4--5
+[][] 
+ []
+
+Package floatflt Message: Floating figure 3 set on page 11
+
+Overfull \hbox (4.59363pt too wide) in paragraph at lines 8--13
+[]|\OT1/cmr/m/n/12 Als Sen-de-di-ode wird die Hoch-leis-tungs-
+ []
+
+
+Overfull \hbox (3.88391pt too wide) in paragraph at lines 8--13
+\OT1/cmr/m/n/12 sor-gung mit kon-stan-ter Span-nung kann
+ []
+
+
+Overfull \hbox (25.84758pt too wide) in paragraph at lines 8--13
+\OT1/cmr/m/n/12 durch ther-mi-sche R[]uckkopplung der Strom,
+ []
+
+
+Overfull \hbox (1.82144pt too wide) in paragraph at lines 8--13
+\OT1/cmr/m/n/12 des-sen wird der Di-oden-trei-ber als Kon-
+ []
+
+[11 <./gfx/comp.pdf> <./gfx/diodentreiber.pdf
+
+pdfTeX warning: pdflatex (file ./gfx/diodentreiber.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+>]) (./demodulation.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+) (./recv.tex
+Underfull \hbox (badness 1122) in paragraph at lines 3--3
+[][]\OT1/cmr/m/n/10 Avago, HFBR-2416, Sei-te 23, Fi-gu-re 12 http://docs.avagot
+ech.com/docs/AV02-
+ []
+
+<gfx/hfbr.pdf, id=190, 353.32pt x 233.673pt>
+File: gfx/hfbr.pdf Graphic file (type pdf)
+ <use gfx/hfbr.pdf>
+Package pdftex.def Info: gfx/hfbr.pdf used on input line 6.
+(pdftex.def)             Requested size: 229.65527pt x 151.88564pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+[]\OT1/cmr/m/n/12 Die Prin-zip-schal-tung wur-de
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 13--15
+[]\OT1/cmr/m/n/12 ubernommen, um den Be-trieb
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+\OT1/cmr/m/n/12 in-ner-halb der Spe-zi-fi-ka-tio-nen
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 13--15
+\OT1/cmr/m/n/12 zu gew[]ahrleisten. Die Bau-tei-le
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 13--15
+\OT1/cmr/m/n/12 sind so di-men-sio-niert, dass die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+\OT1/cmr/m/n/12 Grenz-fre-quenz des Hoch-pas-ses
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 13--15
+\OT1/cmr/m/n/12 F[]ur $\OML/cmm/m/it/12 R[]$ \OT1/cmr/m/n/12 wur-de $33\OML/cmm
+/m/it/12 k\OT1/cmr/m/n/12 
+$ gew[]ahlt.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+\OT1/cmr/m/n/12 Da-mit er-gibt sich ei-ne neue
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--23
+
+ []
+
+[12] <gfx/receiver_part.pdf, id=195, 683.35298pt x 358.94101pt>
+File: gfx/receiver_part.pdf Graphic file (type pdf)
+
+<use gfx/receiver_part.pdf>
+Package pdftex.def Info: gfx/receiver_part.pdf used on input line 35.
+(pdftex.def)             Requested size: 307.506pt x 161.52196pt.
+) (./preamp.tex [13 <./gfx/hfbr.pdf>]
+<gfx/preamp.pdf, id=217, 773.28903pt x 317.185pt>
+File: gfx/preamp.pdf Graphic file (type pdf)
+ <use gfx/preamp.pdf>
+Package pdftex.def Info: gfx/preamp.pdf used on input line 7.
+(pdftex.def)             Requested size: 309.31013pt x 126.87173pt.
+
+Overfull \hbox (3.94315pt too wide) in paragraph at lines 4--9
+\OT1/cmr/m/n/12 gnals vor der Fil-te-rung durch den Re-kon-struk-ti-ons-fil-ter
+ verst[]arkt wer-den(siehe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[]\OT1/cmr/m/n/12 F[]ur gro^^Ye Verst[]arkungen er-
+ []
+
+
+Underfull \hbox (badness 2837) in paragraph at lines 22--23
+\OT1/cmr/m/n/12 rech-net(siehe For-mel 11[] []) ist
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+\OT1/cmr/m/n/12 Verst[]arker zu ver-nachl[]assligen.
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 22--23
+\OT1/cmr/m/n/12 Die Verst[]arkung be-rech-net sich
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 22--23
+\OT1/cmr/m/n/12 le-dig-lich aus den bei-den Wi-
+ []
+
+[14 <./gfx/receiver_part.pdf> <./gfx/preamp.pdf
+
+pdfTeX warning: pdflatex (file ./gfx/preamp.pdf): PDF inclusion: multiple pdfs 
+with page group included in a single page
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+
+ []
+
+<gfx/detect.pdf, id=236, 196.82353pt x 65.043pt>
+File: gfx/detect.pdf Graphic file (type pdf)
+ <use gfx/detect.pdf>
+Package pdftex.def Info: gfx/detect.pdf used on input line 31.
+(pdftex.def)             Requested size: 184.9429pt x 61.11957pt.
+
+Overfull \hbox (3.39844pt too wide) in paragraph at lines 31--32
+[][] 
+ []
+
+Package floatflt Message: Floating figure 4 set on page 15
+
+Overfull \hbox (6.2257pt too wide) in paragraph at lines 35--37
+[]|\OT1/cmr/m/n/12 Neben der Si-gnal-auf-be-rei-tung f[]ur die
+ []
+
+
+Overfull \hbox (9.06865pt too wide) in paragraph at lines 35--37
+\OT1/cmr/m/n/12 fol-gen-de De-mo-du-la-ti-on, wird das ver-
+ []
+
+
+Overfull \hbox (16.25563pt too wide) in paragraph at lines 35--37
+\OT1/cmr/m/n/12 der Ge-h[]au-se-front ver-wen-det. Zur Gl[]at-
+ []
+
+) (./tiefpass.tex [15 <./gfx/detect.pdf>]
+<gfx/characteristics.png, id=254, 423.5825pt x 264.99pt>
+File: gfx/characteristics.png Graphic file (type png)
+
+<use gfx/characteristics.png>
+Package pdftex.def Info: gfx/characteristics.png used on input line 6.
+(pdftex.def)             Requested size: 184.9429pt x 115.69832pt.
+
+Overfull \hbox (3.39844pt too wide) in paragraph at lines 6--7
+[][] 
+ []
+
+Package floatflt Message: Floating figure 5 set on page 16
+
+Overfull \hbox (3.41878pt too wide) in paragraph at lines 10--12
+\OT1/cmr/m/n/12 ter-to-po-lo-gi-en gibt es ei-ne gro^^Ye Aus-
+ []
+
+
+Overfull \hbox (4.07935pt too wide) in paragraph at lines 10--12
+\OT1/cmr/m/n/12 schaf-ten aus-zeich-nen. Kenn-wer-te f[]ur
+ []
+
+
+Overfull \hbox (2.44379pt too wide) in paragraph at lines 10--12
+\OT1/cmr/m/n/12 Cha-rak-te-ris-ti-ken bei-spiel-haft dar-ge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+<gfx/Butterworth_FilterPro.png, id=255, 650.43pt x 483.30562pt>
+File: gfx/Butterworth_FilterPro.png Graphic file (type png)
+
+<use gfx/Butterworth_FilterPro.png>
+Package pdftex.def Info: gfx/Butterworth_FilterPro.png used on input line 17.
+(pdftex.def)             Requested size: 373.99434pt x 277.89857pt.
+
+Overfull \hbox (2.63707pt too wide) in paragraph at lines 14--20
+\OT1/cmr/m/n/12 Te-xas In-stru-ments ver-wen-det. Als De-si-gnpa-ra-me-ter wur-
+den ne-ben der Butter-
+ []
+
+[16 <./gfx/characteristics.png (PNG copy)>]
+<gfx/filter.pdf, id=260, 770.88pt x 325.215pt>
+File: gfx/filter.pdf Graphic file (type pdf)
+ <use gfx/filter.pdf>
+Package pdftex.def Info: gfx/filter.pdf used on input line 25.
+(pdftex.def)             Requested size: 385.43906pt x 162.6071pt.
+ [17 <./gfx/Butterworth_FilterPro.png>]) (./endstufe.tex
+<gfx/post_amplifier.pdf, id=265, 769.27402pt x 354.12299pt>
+File: gfx/post_amplifier.pdf Graphic file (type pdf)
+
+<use gfx/post_amplifier.pdf>
+Package pdftex.def Info: gfx/post_amplifier.pdf used on input line 5.
+(pdftex.def)             Requested size: 384.63606pt x 177.06105pt.
+) [18 <./gfx/filter.pdf>] (./dokumentation.lof)
+\tf@lof=\write5
+\openout5 = `dokumentation.lof'.
+
+
+[19 <./gfx/post_amplifier.pdf>] (./dokumentation.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14220 strings out of 493029
+ 272615 string characters out of 6136233
+ 329257 words of memory out of 5000000
+ 17380 multiletter control sequences out of 15000+600000
+ 13157 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,13n,56p,857b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
+r/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb>
+Output written on dokumentation.pdf (20 pages, 518535 bytes).
+PDF statistics:
+ 333 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
+

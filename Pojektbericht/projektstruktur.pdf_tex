@@ -1,0 +1,68 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'projektstruktur.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{319.2bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.6641604)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{projektstruktur.pdf}}%
+    \put(0.05046515,0.61720663){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.93360518\unitlength}\centering Optische Übertragungsstrecke\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{projektstruktur.pdf}}%
+    \put(0.0508699,0.46051455){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.4100293\unitlength}\centering Sendeeinheit\end{minipage}}}%
+    
+    \put(0.57367086,0.4638529){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41334257\unitlength}\centering Empfangseinheit\end{minipage}}}%
+    \put(0.57462742,0.36361161){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41482931\unitlength}\centering Signalaufbereitung\end{minipage}}}%
+   
+    \put(0.57565516,0.1625285){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41036891\unitlength}\centering Endstufe\end{minipage}}}%
+    \put(0.05035541,0.3639135){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41334255\unitlength}\centering Spannungsversorgung\end{minipage}}}%
+    \put(0.0498422,0.26419179){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41334255\unitlength}\centering Eingangsteil\end{minipage}}}%
+    \put(0.04825327,0.16586913){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41334254\unitlength}\centering Dreiecksgenerator\end{minipage}}}%
+    \put(0.04899731,0.06476238){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41185566\unitlength}\centering Diodentreiber\end{minipage}}}%
+    \put(0.57732825,0.26418942){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41036884\unitlength}\centering Tiefpass\end{minipage}}}%
+ 
+  \end{picture}%
+\endgroup%

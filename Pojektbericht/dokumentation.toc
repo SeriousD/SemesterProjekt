@@ -1,0 +1,25 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Einleitung}{2}
+\contentsline {section}{\numberline {2}\IeC {\"U}bertragungsverfahren}{2}
+\contentsline {subsection}{\numberline {2.1}Analoge \IeC {\"U}bertragungsarten}{2}
+\contentsline {subsubsection}{\numberline {2.1.1}Direkte \IeC {\"U}bertragung}{2}
+\contentsline {subsubsection}{\numberline {2.1.2}Frequenzmodulation}{3}
+\contentsline {subsubsection}{\numberline {2.1.3}Amplitudenmodulation}{4}
+\contentsline {subsection}{\numberline {2.2}Digitale \IeC {\"U}bertragungsarten}{5}
+\contentsline {subsubsection}{\numberline {2.2.1}Pulsweitenmodulation}{5}
+\contentsline {subsection}{\numberline {2.3}Wahl des \IeC {\"U}bertragungsverfahren}{6}
+\contentsline {subsection}{\numberline {2.4}Pulsweitenmodulation - Theorie}{7}
+\contentsline {section}{\numberline {3}Projektstruktur}{8}
+\contentsline {section}{\numberline {4}Schaltungsentwurf - Sendeeinheit}{8}
+\contentsline {subsection}{\numberline {4.1}Spannungsversorgung}{8}
+\contentsline {subsection}{\numberline {4.2}Eingangsstufe}{9}
+\contentsline {subsection}{\numberline {4.3}Dreiecksgenerator}{10}
+\contentsline {subsection}{\numberline {4.4}Komparator}{11}
+\contentsline {subsection}{\numberline {4.5}Diodentreiber}{11}
+\contentsline {section}{\numberline {5}Schaltungsentwurf - Empfangseinheit}{12}
+\contentsline {subsection}{\numberline {5.1}Beschaltung der Empfangsdiode}{12}
+\contentsline {subsection}{\numberline {5.2}Signalaufbereitung}{14}
+\contentsline {subsection}{\numberline {5.3}Tiefpass}{16}
+\contentsline {subsubsection}{\numberline {5.3.1}Filtercharakteristiken im Vergleich}{16}
+\contentsline {subsubsection}{\numberline {5.3.2}Dimensionierung des Filters}{16}
+\contentsline {subsection}{\numberline {5.4}Endstufe}{18}

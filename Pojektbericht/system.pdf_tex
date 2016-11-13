@@ -1,0 +1,82 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'system.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{729.6bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.14692982)%
+    \put(0.30780075,0.06109025){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06265664\unitlength}\raggedright \end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{system.pdf}}%
+    \put(0.00625318,0.0432706){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06204996\unitlength}\raggedright Nutz-\\signal\end{minipage}}}%
+    \put(0.16335661,0.03749572){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06204996\unitlength}\raggedright Nutz-\\signal\end{minipage}}}%
+    \put(0.15944057,0.12971846){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06596601\unitlength}\raggedright Dreiecks-\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{system.pdf}}%
+    \put(0.11048889,0.1226916){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Dreiecks-\\\\ Generator}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{system.pdf}}%
+    \put(0.11053065,0.03227491){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Eingangs-\\\\ stufe}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{system.pdf}}%
+    \put(0.22878104,0.07073719){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Komparator}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{system.pdf}}%
+    \put(0.37762597,0.06925957){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Diodentreiber}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{system.pdf}}%
+    \put(0.53449736,0.06925957){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Vorverstärker}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{system.pdf}}%
+    \put(0.73596438,0.0787585){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Butterworth-\\\\ Tiefpass}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{system.pdf}}%
+    \put(0.86233554,0.06925957){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Endstufe}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{system.pdf}}%
+    \put(0.33433765,0.0863347){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06204996\unitlength}\raggedright PWM\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{system.pdf}}%
+    \put(0.48913993,0.08471739){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06204996\unitlength}\raggedright Licht\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{system.pdf}}%
+    \put(0.64623427,0.08796439){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06204996\unitlength}\raggedright PWM\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{system.pdf}}%
+    \put(0.79070623,0.08721189){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06204996\unitlength}\raggedright Nutz-\\signal\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{system.pdf}}%
+    \put(0.94676042,0.0859763){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06204996\unitlength}\raggedright Nutz-\\signal\end{minipage}}}%
+  \end{picture}%
+\endgroup%

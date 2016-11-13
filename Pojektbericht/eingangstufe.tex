@@ -1,0 +1,10 @@
+\subsection{Eingangsstufe}
+\begin{figure}[H]
+\centering
+ \includegraphics[scale=0.55]{gfx/eingangstufe.pdf}
+ \caption{Kaskade}
+	\label{kaskade} 
+\end{figure}
+Die Eingangsstufe der Sendeeinheit dient zum Einen zur Einstellung der gewünschten Impedanz und zum Anderen der Schaltung der folgenden Komponenten.
+Beiden Potentiometer ($R_{12}$ , $R_{13}$) werden durch einen Kippschalter an der Front des Geräts umgeschaltet. Die folgenden 3 Schaltungsteile, welche durch $1k\Omega$ Widerstände miteinander verbunden sind dienen dem Kurzschluss von Überspannungen. Der Gasableiter ist mit einer Druchbruchspannung von $60V$ gewählt, der Varistor S14K11 ist mit einer AC-Durchbruchspannung von $11V$ gewählt und die Zenerdioden mit einer Zenerspannung von $7,5V$ dimensioniert.\\
+Diese Schaltungs-Topologie sorgt für einen zuverlässigen Schutz gegenüber Überspannungen. Die Zener-Dioden, schalten am schnellsten und sind entsprechend am nähesten zur zu schützenden Komponente verortet. Der Varistor spricht langsamer als die Zener-Dioden an, jedoch schneller als der Gasableiter. Die einzelnen Schutzbauteile sind der Verlustleistung und der Ansprechzeit nach absteigend in Richtung der folgenden Schaltungsteile angeordnet.
