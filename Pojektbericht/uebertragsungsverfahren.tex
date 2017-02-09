@@ -1,6 +1,6 @@
 \section{Übertragungsverfahren}
 Das zu übertragende Signal ist ein analoges Messignal mit Netzfrequenz, welches von der Hochspannungsanlage stammt. Die Amplitude wird durch den Eingangswiderstand der Sendeeinheit bestimmt. Die zur Verfügung stehenden Dioden können analoge sowie digitale Signale übertragen. Aufgrund dessen stehen mehrere Übertragungsverfahren zur Auswahl.
-In diesem Kapitel werden einige in Frage kommenden Übertragungsverfahren vorgestellt und evaluiert.
+In diesem Kapitel werden einige in Frage kommende Übertragungsverfahren vorgestellt und evaluiert.
 \subsection{Analoge Übertragungsarten}
 \subsubsection{Direkte Übertragung}
 Eine Möglichkeit das Signal zu übertragen ist, dieses nach Aufbereitung direkt auf die Dioden zu geben.
@@ -13,7 +13,7 @@ Durch diese Anordnung ist jedoch nicht garantiert, dass das Messignal bei variie
   \label{fig:fm}
 \end{figure}
 Die Frequenzmodulation verändert die Frequenz des Trägersignals linear zur Amplitude des Nachrichtensignals.
-Eine Implementierung einer solchen Modulation ist mit einem Voltage contolled oscillator(VCO) simpel zu realisieren. Die Demodulation erfolgt über einen Diskriminator, welcher auf vielfältige Art und Weise aufgebaut werden kann. Exemplarisch sei an dieser Stelle die Demodulation mit einem Phase locked loop(PLL) genannt. Eine PLL führt die Ausgangsfrequenz immer einer gegeben Eingangsfrequenz nach. Die Regeldifferenz aus diesen Größen lässt sich als Spannung abgreifen. Wird ein frequenzmoduliertes Signal als Soll-Signal vorgegeben so ist die genannte Regelspannung das demodulierte Nachrichtensignal.
+Eine Implementierung einer solchen Modulation ist mit einem Voltage contolled oscillator (VCO) simpel zu realisieren. Die Demodulation erfolgt über einen Diskriminator, welcher auf vielfältige Art und Weise aufgebaut werden kann. Exemplarisch sei an dieser Stelle die Demodulation mit einem Phase locked loop (PLL) genannt. Eine PLL führt die Ausgangsfrequenz immer einer gegeben Eingangsfrequenz nach. Die Regeldifferenz aus diesen Größen lässt sich als Spannung abgreifen. Wird ein frequenzmoduliertes Signal als Soll-Signal vorgegeben so ist die genannte Regelspannung das demodulierte Nachrichtensignal.
 
 \subsubsection{Amplitudenmodulation}
 \begin{figure}[H]
@@ -37,7 +37,7 @@ Da bei dieser Modulation die Information genauso wie bei der direkten Übertragu
   \label{fig:pwm}
 \end{figure}
 Die Pulsweitenmodulation moduliert, ähnlich wie die Frequenzmodulation, das Nachrichtensignal im Zeitbereich. 
-Die essentiellen Unterschiede liegen zum Einen darin, dass die PWM ein digitales Übertragungsverfahren ist und demnach nur 2 Zustände kennt, und zum Anderen, dass das Nachrichtensignal nicht direkt in der Frequenz des Trägersignals kodiert wird sondern in der Pulsweite des Trägersignals. Die Synthese einer Pulsweitenmodulation kann durch den Vergleich des Nachrichtensignals mit einer Dreiecksspannung erfolgen. Hierbei ist darauf zu achten, dass die Dreieckspannung, welche als Träger verwendet wird, eine vielfache Frequenz des Nachrichtensignals aufweist.Die Demodulation eines pulsweitenmodulierten Signals erfolgt durch einen Tiefpass, welcher ledglich das Nachrichtensignal im Passband hat. 
+Die essentiellen Unterschiede liegen zum Einen darin, dass die PWM ein digitales Übertragungsverfahren ist und demnach nur 2 Zustände kennt, und zum Anderen, dass das Nachrichtensignal nicht direkt in der Frequenz sondern in der Pulsweite des Trägersignals kodiert wird. Die Synthese einer Pulsweitenmodulation kann durch den Vergleich des Nachrichtensignals mit einer Dreiecksspannung erfolgen. Hierbei ist darauf zu achten, dass die Dreieckspannung, welche als Träger verwendet wird, eine vielfache Frequenz des Nachrichtensignals aufweist. Die Demodulation eines pulsweitenmodulierten Signals erfolgt durch einen Tiefpass, welcher ledglich das Nachrichtensignal im Passband hat. 
 
 
 
@@ -47,10 +47,10 @@ Eine unmodulierte Übertragung ist aufgrund der Leitungsdämpfung ausgeschlossen
 \begin{figure}[H]
 \centering
   \input{prinzip.pdf_tex}
-  \caption{Prinzipieller Systemaufbau}
+  \caption{Genereller Systemaufbau}
   \label{fig:psystem}
 \end{figure}
-Die Evaluation der 3 verbliebenen Varianten liefert die Pulsweitenmodulation(PWM) als optimales Ergebnis:
+Die Evaluation der drei verbliebenen Varianten liefert die Pulsweitenmodulation (PWM) als optimales Ergebnis:
 Im Gegensatz zu allen analogen Übertragungsverfahren lässt sich die PWM durch Übersteuerung des Eingangsverstärkers der Empfängereinheit sehr einfach rekonstruieren und ist demnach unempfindlich gegenüber Variationen der Dämpfung der Leitungslänge. Darüber hinaus ist die Synthese sowie Demodulation einer PWM mit einfachen Mitteln umzusetzen.\\
 Neben den grundlegenden Aufgaben des Systems, wie Modulation und Demodulation, müssen noch weitere Komponenten wie eine Endstufe und eine Schutzschaltung gegenüber der Hochspannung im System verbaut werden. 
 Aus allen vorangegangen Überlegungen geht folgender Systemaufbau hervor: 
