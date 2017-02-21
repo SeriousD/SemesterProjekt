@@ -26,6 +26,6 @@
 \contentsline {section}{\numberline {6}Simulation kritischer Schaltungsteile}{21}
 \contentsline {subsection}{\numberline {6.1}Sendeeinheit}{21}
 \contentsline {subsubsection}{\numberline {6.1.1}Eingangsteil}{21}
-\contentsline {subsubsection}{\numberline {6.1.2}Millerintegrator}{21}
-\contentsline {subsubsection}{\numberline {6.1.3}Diodentreiber}{22}
-\contentsline {subsection}{\numberline {6.2}Empfangseinheit}{22}
+\contentsline {subsubsection}{\numberline {6.1.2}Millerintegrator}{22}
+\contentsline {subsubsection}{\numberline {6.1.3}Diodentreiber}{23}
+\contentsline {subsection}{\numberline {6.2}Empfangseinheit}{24}

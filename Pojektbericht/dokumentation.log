@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.11)  6 FEB 2017 08:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.11)  21 FEB 2017 03:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -513,18 +513,18 @@ LaTeX Warning: Label `fig:comp' multiply defined.
 )
 \openout1 = `dokumentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
  (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -1320,13 +1320,13 @@ Overfull \hbox (1.30702pt too wide) in paragraph at lines 9--1
 \OT1/cmr/m/n/12 nung []uber Bat-te-ri-en. Auf-grund der ho-
  []
 
-<gfx/eingangstufe.pdf, id=89, 692.98903pt x 171.039pt>
+<gfx/eingangstufe.pdf, id=89, 267.39899pt x 80.3pt>
 File: gfx/eingangstufe.pdf Graphic file (type pdf)
-
-<use gfx/eingangstufe.pdf>
+ <use gfx/eingangstufe.pdf>
 Package pdftex.def Info: gfx/eingangstufe.pdf used on input line 4.
-(pdftex.def)             Requested size: 381.14514pt x 94.07173pt.
- [8 <./projektstruktur.pdf> <./projektstruktur.pdf
+(pdftex.def)             Requested size: 267.39833pt x 80.29979pt.
+
+[8 <./projektstruktur.pdf> <./projektstruktur.pdf
 
 pdfTeX warning: pdflatex (file ./projektstruktur.pdf): PDF inclusion: multiple 
 pdfs with page group included in a single page
@@ -1334,30 +1334,53 @@ pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ./gfx/vcc.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
->]) (./millerintegrator.tex
-Overfull \hbox (30.93315pt too wide) in paragraph at lines 8--1
+>]
+Overfull \hbox (30.93315pt too wide) in paragraph at lines 8--11
 \OT1/cmr/m/n/12 Die Ein-gangs-stu-fe der Sen-de-ein-heit dient ei-ner-seits zur
  Ein-stel-lung der gew[]unschten
  []
 
 
-Overfull \hbox (54.58983pt too wide) in paragraph at lines 8--1
+Overfull \hbox (54.58983pt too wide) in paragraph at lines 8--11
 \OT1/cmr/m/n/12 Wi-derst[]ande mit-ein-an-der ver-bun-den sind die-nen dem Kurz
 -schluss von []Uberspannungen.
  []
 
-<gfx/triangle_generator.pdf, id=153, 702.625pt x 286.671pt>
+
+Package floatflt Warning: Floating figures 1 and 2 colliding.
+
+(./impedanz2.pdf_tex <impedanz2.pdf, id=153, page=1, 188.705pt x 141.328pt>
+File: impedanz2.pdf Graphic file (type pdf)
+
+<use impedanz2.pdf, page 1>
+Package pdftex.def Info: impedanz2.pdf, page1 used on input line 52.
+(pdftex.def)             Requested size: 188.70499pt x 141.32764pt.
+)
+Overfull \hbox (21.3869pt too wide) in paragraph at lines 58--13
+[][] 
+ []
+
+! Extra }, or forgotten \endgroup.
+\endfloatingfigure -> \egroup 
+                              \figinsert \par 
+l.17 \end{floatingfigure}
+                         
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+) (./millerintegrator.tex
+<gfx/triangle_generator.pdf, id=154, 254.55101pt x 120.45pt>
 File: gfx/triangle_generator.pdf Graphic file (type pdf)
 
 <use gfx/triangle_generator.pdf>
 Package pdftex.def Info: gfx/triangle_generator.pdf used on input line 4.
-(pdftex.def)             Requested size: 386.44493pt x 157.66953pt.
+(pdftex.def)             Requested size: 254.55038pt x 120.44969pt.
  [9 <./gfx/eingangstufe.pdf>]) (./comp.tex
 [10 <./gfx/triangle_generator.pdf>]
-
-Package floatflt Warning: Floating figures 1 and 2 colliding.
-
-<gfx/comp.pdf, id=173, 625.53702pt x 146.14601pt>
+<gfx/comp.pdf, id=174, 625.53702pt x 146.14601pt>
 File: gfx/comp.pdf Graphic file (type pdf)
  <use gfx/comp.pdf>
 Package pdftex.def Info: gfx/comp.pdf used on input line 4.
@@ -1367,7 +1390,7 @@ Overfull \hbox (3.39844pt too wide) in paragraph at lines 4--5
 [][] 
  []
 
-Package floatflt Message: Floating figure 2 set on page 11
+Package floatflt Message: Floating figure 3 set on page 11
 ) (./diodentreiber.tex
 Overfull \hbox (0.13203pt too wide) in paragraph at lines 8--1
 \OT1/cmr/m/n/12 zur Puls-wei-ten-mo-du-la-ti-on. Im we-sent-
@@ -1383,7 +1406,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--1
 
  []
 
-<gfx/diodentreiber.pdf, id=174, 530.78299pt x 510.708pt>
+
+Package floatflt Warning: Floating figures 3 and 4 colliding.
+
+<gfx/diodentreiber.pdf, id=175, 530.78299pt x 510.708pt>
 File: gfx/diodentreiber.pdf Graphic file (type pdf)
 
 <use gfx/diodentreiber.pdf>
@@ -1394,7 +1420,7 @@ Overfull \hbox (200.34134pt too wide) in paragraph at lines 4--5
 [][] 
  []
 
-Package floatflt Message: Floating figure 3 set on page 11
+Package floatflt Message: Floating figure 4 set on page 11
 
 Overfull \hbox (4.59363pt too wide) in paragraph at lines 8--13
 []|\OT1/cmr/m/n/12 Als Sen-de-di-ode wird die Hoch-leis-tungs-
@@ -1430,7 +1456,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 3--3
 ech.com/docs/AV02-
  []
 
-<gfx/hfbr.pdf, id=190, 353.32pt x 233.673pt>
+<gfx/hfbr.pdf, id=191, 353.32pt x 233.673pt>
 File: gfx/hfbr.pdf Graphic file (type pdf)
  <use gfx/hfbr.pdf>
 Package pdftex.def Info: gfx/hfbr.pdf used on input line 6.
@@ -1488,14 +1514,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--23
  []
 
 [12] [13 <./gfx/hfbr.pdf>]
-<gfx/receiver_part.pdf, id=216, 683.35298pt x 358.94101pt>
+<gfx/receiver_part.pdf, id=217, 683.35298pt x 358.94101pt>
 File: gfx/receiver_part.pdf Graphic file (type pdf)
 
 <use gfx/receiver_part.pdf>
 Package pdftex.def Info: gfx/receiver_part.pdf used on input line 36.
 (pdftex.def)             Requested size: 307.506pt x 161.52196pt.
 ) (./preamp.tex [14 <./gfx/receiver_part.pdf>]
-<gfx/preamp.pdf, id=228, 773.28903pt x 317.185pt>
+<gfx/preamp.pdf, id=229, 773.28903pt x 317.185pt>
 File: gfx/preamp.pdf Graphic file (type pdf)
  <use gfx/preamp.pdf>
 Package pdftex.def Info: gfx/preamp.pdf used on input line 7.
@@ -1505,7 +1531,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--28
 
  []
 
-<gfx/detect.pdf, id=229, 196.82353pt x 65.043pt>
+<gfx/detect.pdf, id=230, 196.82353pt x 65.043pt>
 File: gfx/detect.pdf Graphic file (type pdf)
  <use gfx/detect.pdf>
 Package pdftex.def Info: gfx/detect.pdf used on input line 31.
@@ -1517,20 +1543,30 @@ Overfull \hbox (3.39844pt too wide) in paragraph at lines 31--32
 
 ) (./tiefpass.tex [15 <./gfx/preamp.pdf>] [16]
 
-Package floatflt Warning: Floating figures 4 and 5 colliding.
+Package floatflt Warning: Floating figures 5 and 6 colliding.
 
-<gfx/characteristics.png, id=244, 423.5825pt x 264.99pt>
-File: gfx/characteristics.png Graphic file (type png)
 
-<use gfx/characteristics.png>
-Package pdftex.def Info: gfx/characteristics.png used on input line 6.
-(pdftex.def)             Requested size: 184.9429pt x 115.69832pt.
+LaTeX Warning: File `gfx/characteristics.png' not found on input line 6.
+
+
+! Package pdftex.def Error: File `gfx/characteristics.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...phics[width=6.5cm]{gfx/characteristics.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Overfull \hbox (3.39844pt too wide) in paragraph at lines 6--7
 [][] 
  []
 
-Package floatflt Message: Floating figure 5 set on page 17
+Package floatflt Message: Floating figure 6 set on page 17
 
 Overfull \hbox (3.41878pt too wide) in paragraph at lines 10--12
 \OT1/cmr/m/n/12 ter-to-po-lo-gi-en gibt es ei-ne gro^^Ye Aus-
@@ -1544,6 +1580,16 @@ Overfull \hbox (4.07935pt too wide) in paragraph at lines 10--12
 
 Overfull \hbox (2.44379pt too wide) in paragraph at lines 10--12
 \OT1/cmr/m/n/12 Cha-rak-te-ris-ti-ken bei-spiel-haft dar-ge-
+ []
+
+
+Overfull \hbox (30.93517pt too wide) in paragraph at lines 10--12
+\OT1/cmr/m/n/12 ei-ne Butterworth-Charakteristik gew[]ahlt,
+ []
+
+
+Overfull \hbox (6.47154pt too wide) in paragraph at lines 10--12
+\OT1/cmr/m/n/12 nen Peak kurz vor der Grenz-fre-quenz
  []
 
 
@@ -1563,20 +1609,44 @@ Overfull \hbox (2.63707pt too wide) in paragraph at lines 14--20
 den ne-ben der Butter-
  []
 
-[17 <./gfx/characteristics.png (PNG copy)>]
-<gfx/filter.pdf, id=250, 770.88pt x 325.215pt>
+[17] <gfx/filter.pdf, id=251, 770.88pt x 325.215pt>
 File: gfx/filter.pdf Graphic file (type pdf)
  <use gfx/filter.pdf>
 Package pdftex.def Info: gfx/filter.pdf used on input line 25.
 (pdftex.def)             Requested size: 385.43906pt x 162.6071pt.
- [18 <./gfx/Butterworth_FilterPro.png>]) (./endstufe.tex
-<gfx/post_amplifier.pdf, id=256, 769.27402pt x 354.12299pt>
+
+[18 <./gfx/Butterworth_FilterPro.png>]) (./endstufe.tex
+<gfx/post_amplifier.pdf, id=257, 769.27402pt x 354.12299pt>
 File: gfx/post_amplifier.pdf Graphic file (type pdf)
 
 <use gfx/post_amplifier.pdf>
 Package pdftex.def Info: gfx/post_amplifier.pdf used on input line 5.
 (pdftex.def)             Requested size: 384.63606pt x 177.06105pt.
 ) [19 <./gfx/filter.pdf>] (./simTx.tex
+<gfx/simTx/Impedance20k.png, id=269, 829.0975pt x 432.61626pt>
+File: gfx/simTx/Impedance20k.png Graphic file (type png)
+
+<use gfx/simTx/Impedance20k.png>
+Package pdftex.def Info: gfx/simTx/Impedance20k.png used on input line 4.
+(pdftex.def)             Requested size: 414.54774pt x 216.3076pt.
+
+<gfx/simTx/Impedance50k.png, id=270, 829.0975pt x 432.61626pt>
+File: gfx/simTx/Impedance50k.png Graphic file (type png)
+
+<use gfx/simTx/Impedance50k.png>
+Package pdftex.def Info: gfx/simTx/Impedance50k.png used on input line 5.
+(pdftex.def)             Requested size: 414.54774pt x 216.3076pt.
+
+Overfull \hbox (24.54774pt too wide) in paragraph at lines 4--6
+[]
+ []
+
+
+Overfull \hbox (24.54774pt too wide) in paragraph at lines 4--6
+[] 
+ []
+
+[20 <./gfx/post_amplifier.pdf>]
 
 ! LaTeX Error: Environment float undefined.
 
@@ -1584,17 +1654,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \begin{float}
+l.8 \begin{float}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<gfx/simTx/PWMsynth.png, id=268, 829.0975pt x 499.8675pt>
+<gfx/simTx/PWMsynth.png, id=282, 829.0975pt x 499.8675pt>
 File: gfx/simTx/PWMsynth.png Graphic file (type png)
 
 <use gfx/simTx/PWMsynth.png>
-Package pdftex.def Info: gfx/simTx/PWMsynth.png used on input line 7.
+Package pdftex.def Info: gfx/simTx/PWMsynth.png used on input line 10.
 (pdftex.def)             Requested size: 414.54774pt x 249.93314pt.
 
 
@@ -1604,50 +1674,80 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 \end{float}
-               
+l.11 \end{float}
+                
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (24.54774pt too wide) in paragraph at lines 7--9
+Overfull \hbox (24.54774pt too wide) in paragraph at lines 10--12
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--9
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
 
-[20 <./gfx/post_amplifier.pdf>]
-<gfx/simTx/DiodeCurrent.png, id=280, 829.0975pt x 481.8pt>
+[21 <./gfx/simTx/Impedance20k.png> <./gfx/simTx/Impedance50k.png>]
+<gfx/simTx/DiodeCurrent.png, id=288, 829.0975pt x 481.8pt>
 File: gfx/simTx/DiodeCurrent.png Graphic file (type png)
 
 <use gfx/simTx/DiodeCurrent.png>
-Package pdftex.def Info: gfx/simTx/DiodeCurrent.png used on input line 10.
+Package pdftex.def Info: gfx/simTx/DiodeCurrent.png used on input line 13.
 (pdftex.def)             Requested size: 414.54774pt x 240.8994pt.
 
-Overfull \hbox (24.54774pt too wide) in paragraph at lines 10--11
+Overfull \hbox (24.54774pt too wide) in paragraph at lines 13--14
 [] 
  []
 
-[21 <./gfx/simTx/PWMsynth.png>]) (./dokumentation.lof [22 <./gfx/simTx/DiodeCur
-rent.png>])
+[22 <./gfx/simTx/PWMsynth.png>]
+<gfx/simRx/characteristics.png, id=293, 423.5825pt x 264.99pt>
+File: gfx/simRx/characteristics.png Graphic file (type png)
+
+<use gfx/simRx/characteristics.png>
+Package pdftex.def Info: gfx/simRx/characteristics.png used on input line 15.
+(pdftex.def)             Requested size: 423.58147pt x 264.98935pt.
+
+<gfx/simRx/amplification.png, id=294, 829.0975pt x 450.68375pt>
+File: gfx/simRx/amplification.png Graphic file (type png)
+
+<use gfx/simRx/amplification.png>
+Package pdftex.def Info: gfx/simRx/amplification.png used on input line 16.
+(pdftex.def)             Requested size: 414.54774pt x 225.34131pt.
+)
+Overfull \hbox (33.58147pt too wide) in paragraph at lines 15--140
+[]
+ []
+
+
+Overfull \hbox (24.54774pt too wide) in paragraph at lines 15--140
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--140
+
+ []
+
+[23 <./gfx/simTx/DiodeCurrent.png>] (./dokumentation.lof [24 <./gfx/simRx/chara
+cteristics.png (PNG copy)> <./gfx/simRx/amplification.png>])
 \tf@lof=\write5
 \openout5 = `dokumentation.lof'.
 
- [23] (./dokumentation.aux)
+ [25]
+(./dokumentation.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 14235 strings out of 493029
- 272909 string characters out of 6136233
- 329288 words of memory out of 5000000
- 17389 multiletter control sequences out of 15000+600000
- 13157 words of font info for 47 fonts, out of 8000000 for 9000
+ 14261 strings out of 493029
+ 273527 string characters out of 6136233
+ 329296 words of memory out of 5000000
+ 17407 multiletter control sequences out of 15000+600000
+ 13326 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,13n,56p,858b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
@@ -1662,11 +1762,12 @@ c/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
-r/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb>
-Output written on dokumentation.pdf (24 pages, 559362 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/shar
+e/texmf/fonts/type1/public/tex-gyre/qhvr.pfb>
+Output written on dokumentation.pdf (26 pages, 627563 bytes).
 PDF statistics:
- 336 PDF objects out of 1000 (max. 8388607)
- 218 compressed objects within 3 object streams
+ 354 PDF objects out of 1000 (max. 8388607)
+ 226 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 153 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 173 words of extra memory for PDF output out of 10000 (max. 10000000)
 
