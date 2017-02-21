@@ -8,11 +8,11 @@ Bericht:
 	Sendeeinheit:
 	*Diodenstrom -> DONE
 	*Proof of Concept -> DONE
-	*Eingangsspannungsvariation
+	*Eingangsspannungsvariation ->DONE
 	Empfangseinheit:
-	*Filterung
-	*Verstärkung
-- Schaltplan Miller integrator korrigeiren! (Widerstände Schmidttrigger falsch!)
+	*Filterung -> DONE	
+	*Verstärkung -> DONE
+- Schaltplan Miller integrator korrigeiren! (Widerstände Schmidttrigger falsch!) -> DONE
 - Sendeeinheit Impedanz,skizze + Berechung, Eingangsschaltung korrigieren(Widerstände)
 - Messungen
 - Gesamtschaltskizze je gerät, krasser DIN Rahmen
