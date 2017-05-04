@@ -1,21 +1,12 @@
 Anleitung:
-- Impedanzen richtig angeben
-- Biegeradius LWL angeben
-- Bilder der Geräte machen
+- Impedanzen richtig angeben 					-> 
+- Bilder der Geräte einfügen 					-> DONE
 
 Bericht:
-- Simulationen
-	Sendeeinheit:
-	*Diodenstrom -> DONE
-	*Proof of Concept -> DONE
-	*Eingangsspannungsvariation ->DONE
-	Empfangseinheit:
-	*Filterung -> DONE	
-	*Verstärkung -> DONE
-- Schaltplan Miller integrator korrigeiren! (Widerstände Schmidttrigger falsch!) -> DONE
-- Sendeeinheit Impedanz,skizze + Berechung, Eingangsschaltung korrigieren(Widerstände)
-- Messungen
-- Gesamtschaltskizze je gerät, krasser DIN Rahmen
+- Simulationen 							-> DONE
+- Bilder der Messung einfügen 					-> 
+- Gesamtschaltskizze je Gerät, krasser DIN Rahmen prüfen 	-> DONE
 
 Gesamt:
-- Funktionstest
+- Funktionstest: Im HS-Labor Sendeeinheit kalibrieren. 
+  (Impendanzen einstellen)					->
