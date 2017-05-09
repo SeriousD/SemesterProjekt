@@ -18,8 +18,11 @@
 
 \newpage
 \section{Übersicht}
-Die Optische Übertragungstrecke für das Hochspannungslabor besteht aus 2 Einheiten, welche jeweils für das Senden und für das Empfangen des Messignals(AC gekoppelt) zuständig sind.  \\ \\ 
-[BILD SENDER UND EMPFÄNGER]
+Die Optische Übertragungstrecke für das Hochspannungslabor besteht aus zwei Einheiten, welche jeweils für das Senden und für das Empfangen des Messsignals(AC gekoppelt) zuständig sind.  \\ \\ 
+\begin{center}
+\includegraphics[scale=0.4]{gfx/title.JPG}
+\end{center}
+
 
 \section{Technische Spezifikation}
 \begin{table}[h!]
@@ -32,7 +35,7 @@ Die Optische Übertragungstrecke für das Hochspannungslabor besteht aus 2 Einhe
   \textbf{Sendeeinheit:} \\
   Betriebsspannung & $\pm 12V$ \\
   Impedanz & $12k\Omega$ / $22k\Omega$   \\
-  Maximale Eingangsamplitude & $50 kV$\\
+  Maximale Eingangsamplitude & $6 V$\\
   \midrule
   \textbf{Empfangseinheit:}\\
   Betriebsspannung & $\pm 5V$ \\
@@ -92,12 +95,16 @@ Die Optische Übertragungstrecke für das Hochspannungslabor besteht aus 2 Einhe
 \end{figure}
 
 \subsection{Inbetriebnahme Sendeeinheit}
-Bevor die Sendeeinheit mit anderen Komponenten verbunden wird muss diese ausgeschaltet sein. Hierzu muss Schalter(8) in linker Position sein.
+\begin{itemize}
+\item Bevor die Sendeeinheit mit anderen Komponenten verbunden wird muss diese ausgeschaltet sein. Hierzu muss Schalter(8) in linker Position sein.
+\item Danach gilt es die Versorgungsspannung zu verbinden. Dabei ist zu beachten die beigelegte V-Verbindung mit den jeweiligen Akkus zu verwenden.
+\item Beim Aufbau ist besonders auf die jeweiligen Kabel- und Buchsenfarben(1,2,3) zu achten! \textbf{Achtung ein falscher Anschluss(Verpolung) kann zur Zerstörung des Gerätes führen!}
+\item Anschließend wird die vom Messobjekt kommende Leitung an die BNC-Buchse(10) angekoppelt.
+\item Sobald die Sendeeinheit einen festen Platz hat, kann der Lichtwellenleiter mit der Laserdiode(4) verbunden werden. Hierbei gilt es zu beachten, dass der Lichtwellenleiter nicht zu großer mechanischer Belastung ausgesetzt wird.
+\item Nun kann die Sendeeinheit eingeschaltet werden in dem der Schalter(8) in rechte Position gebracht wird.
+\item Schlussendlich wird die gewünschte Impedanz über den Schalter(9) eingestellt. Die eingestellte Impedanz wird über die Signalleuchten(5,7) angegeben.
+\end{itemize}
 
-Danach gilt es die Versorgungsspannung zu verbinden. Hierzu gitl es die beigelegte V-Verbindung mit den jeweiligen Akkus zu verwenden. Beim Aufbau ist besonders auf die jeweiligen Kabel- und Buchsenfarben(1,2,3) zu achten \textbf{Achtung ein falscher Anschluss(Verpolung) kann zur Zerstörung des Gerätes führen!}
-Anschließend wird die vom Messobjekt kommende Leitung an die BNC-Buchse(10) angekoppelt.
-Sobald die Sendeeinheit einen festen Platz hat, kann der Lichtwellenleiter mit der Laserdiode(4) verbunden werden. Hierbei gilt es zu beachten, dass der Lichtwellenleiter nicht zu großer Belastung ausgesetzt wird und der Biegeradius X Zentimeter nicht unterschreitet.
-Nun kann die Sendeeinheit eingeschaltet werden in dem der Schalter(8) in rechte Position gebracht wird. Schlussendlich wird die Impedanz über den Schalter(9) eingestellt. Die eingestellte Impedanz wird über die Signalleuchten(5,7) angegeben.
 Die Sendeeinheit ist nun betriebsbereit. 
 
 
@@ -111,7 +118,7 @@ Die Sendeeinheit ist nun betriebsbereit.
 \item Buchse GND
 \item Buchse -5V
 \item Empfangsdiode Lichtwellenleiter
-\item Signalleuchte Signal vorhanden
+\item Signalleuchte (Signal vorhanden)
 \end{enumerate}
 \centering
 \end{minipage}
@@ -144,6 +151,6 @@ Die Sendeeinheit ist nun betriebsbereit.
 
 \subsection{Inbetriebnahme Empfangseinheit}
 Die Sendeeinheit wird mit einem Labornetzteil betrieben. Dieses ist bei Verkabelung aus.
-Die Versorgungsspannung wird an die Buchsen(1,2,3) angeschlossen. \textbf{Achtung ein falscher Anschluss(Verpolung) kann zur Zerstörung des Gerätes führen!}. Anschließend wird die zum Messgerät führende BNC-Kupplung an die BNC-Buchs(6) angeschlossen. Sobald die Empfangseineinheit einen festen Platz hat wird der Lichtwellenleiter mit der Empfangsdiode(4) verbunden. Hierbei gilt es zu beachten, dass der Lichtwellenleiter nicht zu großer Belastung ausgesetzt wird und der Biegeradius X Zentimeter nicht unterschreitet. Anschließend wird das Gerät in Betrieb genommen indem das Labornetzteil eingeschaltet wird. Wenn alles korrekt verbunden ist und ein Signal anliegt leichtet die Signalleuchte(6).
-die Empfangseinheit ist nun Betriebsbereit und die Messung kann beginnen.
+Die Versorgungsspannung wird an die Buchsen(1,2,3) angeschlossen. \textbf{Achtung ein falscher Anschluss(Verpolung) kann zur Zerstörung des Gerätes führen!}. Anschließend wird die zum Messgerät führende BNC-Kupplung an die BNC-Buchse(6) angeschlossen. Sobald die Empfangseineinheit einen festen Platz hat wird der Lichtwellenleiter mit der Empfangsdiode(4) verbunden. Hierbei gilt es zu beachten, dass der Lichtwellenleiter nicht zu großer mechanischer Belastung ausgesetzt wird. Anschließend wird das Gerät in Betrieb genommen indem das Labornetzteil eingeschaltet wird. Wenn alles korrekt verbunden ist und ein Signal anliegt leuchtet die Signalleuchte(6).
+Die Empfangseinheit ist nun Betriebsbereit und die Messung kann beginnen.
 \end{document}
