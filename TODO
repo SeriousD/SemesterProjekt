@@ -1,12 +1,22 @@
 Anleitung:
-- Impedanzen richtig angeben 					-> 
-- Bilder der Geräte einfügen 					-> DONE
+- Impedanzen richtig angeben 					-> DONE
+					30kV: 9889,84 OHm
+					100kV: 2969,87 OHM
+- Bilder der Geräte einfügen 					-> DONE			
+- letzten Abschnitt korrigieren					-> DONE
 
 Bericht:
 - Simulationen 							-> DONE
-- Bilder der Messung einfügen 					-> (DONE)
+- Bilder der Messung einfügen 					-> DONE
 - Gesamtschaltskizze je Gerät, krasser DIN Rahmen prüfen 	-> DONE
+- Fehler der 30kV & 100kV Messung (Regressionsgrade) angeben	-> 
+					30kV: 0,28%
+					100kV: 2,47%
+					R² berechnen		->
+- mehr Referenzieren						-> 
+- Oszilogramme den Messpins zuordnen				->
+- Schaltplan um die Messpunkte ergänzen	(Inkscape)		->
 
 Gesamt:
-- Funktionstest: Im HS-Labor Sendeeinheit kalibrieren. 
-  (Impendanzen einstellen)					->
+- Funktionstest: Im HS-Labor Sendeeinheit justieren. 
+  (Impendanzen einstellen)					-> DONE
