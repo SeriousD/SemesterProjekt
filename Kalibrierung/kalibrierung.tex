@@ -1,0 +1,40 @@
+\documentclass[10pt]{scrartcl}
+\usepackage[ngerman]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{pgfplots}
+\usepackage{subfigure}
+\usepackage{float}
+\usepackage{booktabs}
+
+\begin{document}
+\title{Justierung der optischen Übertragungsstrecke für das HS-Labor}
+
+\section{Rahmenbedingungen}
+Zur Justierung der Übertragungsstrecke sind folgende Rahmenbedingungen zu beachten:
+\begin{itemize}
+\item maximale Eingangsspannung der Sendeeinheit(7V)
+\item maximale Ausgangsspannung der Empfangseinheit(5V)
+\item Linearität der Modulation
+\item Einfacher Umrechnungsfaktor für das gegebene System
+\end{itemize}
+
+\section{Berechnung des Innenwiderstandes}
+Es besteht die Möglichkleit die Impedanz der Sendeeinheit mittels Kippschalter umzuschalten. In der ersten Schalterstellung kann eine Impedanz von 0 bis $10k\Omega$ vorgegeben werden, in der zweiten eine Impedanz von 0 bis $50k\Omega$. Diese werden mittels Trimmpotentiometers eingestellt. 
+\section{Test}
+  	\begin{figure}[H]
+		\input{plot8k4.pgf}
+		
+		\end{figure}
+		\begin{figure}[H]
+	\input{plot8k4.tex}
+	\end{figure}
+	\begin{figure}[H]
+		\input{plot28k.pgf}
+		\end{figure}
+		\begin{figure}[H]
+	\input{plot28k.tex}
+	\end{figure}
+ 
+
+
+\end{document}
