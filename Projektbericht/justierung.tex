@@ -24,4 +24,23 @@ Es besteht die Möglichkleit die Impedanz der Sendeeinheit mittels Kippschalter 
 		\begin{figure}[H]
 	\input{gfx/just/plot28k.tex}
 	\end{figure}
- 
+
+\subsection{Qualität der Regressionsgeraden}
+\begin{figure}[H]
+\centering
+ %\includegraphics[scale=1]{gfx/30kV_Messung.pdf}
+ %\caption{krasse python grafik}
+	%\label{sexy} 
+\end{figure}
+Die ermittelten Regressionsgeraden für die 30kV Messung und die 100kV Messung, zur Linearitätsuntersuchung der Gesamtschaltung, wurden auf ihre Aussagekraft hin untersucht. Anhand des Bestimmtheitsmaßes lässt sich ausdrücken wie gut die Regressionsgeraden für den gewählten Zusammenhang passen. Hat es den Wert 1 stimmt das Regressionsmodell exakt überein, ist es hingegen 0 besteht kein Zusammenhang für das gewählte Regressionsmodell mit den Messwerten.
+
+Das Bestimmtheitsmaß errechnet sich wie folgt: 
+\begin{equation}
+R^{2} = 1 - \frac{\sum \limits_{i=1}^n (y_i - \hat{y_i})^{2}}{\sum \limits_{i=1}^n (y_i - \bar{y})^{2}}
+\end{equation}
+wobei:
+\begin{align*}
+y_i &= \text{y-Werte der Messung}\\
+\hat{y}_i &= \text{y-Werte des Regeressionsmodells}\\
+\bar{y} &= \text{Mittelwert der y-Werte}
+\end{align*}
