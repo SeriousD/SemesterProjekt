@@ -1,0 +1,229 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'RxSchematic.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{842bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.70665083)%
+    \put(0.19386867,0.62161115){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{10}}}%
+    \put(0.30408842,0.50962233){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{33k}}}}%
+    \put(0.55373565,0.49423433){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{15k}}}%
+    \put(0.68197908,0.50278322){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{6,8k}}}%
+    \put(0.73327646,0.50278322){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{4,7k}}}%
+    \put(0.72558185,0.46388581){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1µF}}}%
+    \put(0.59733842,0.46388581){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{100nF}}}%
+    \put(0.82176442,0.54467274){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{100nF}}}}%
+    \put(0.12711247,0.49808133){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{22pF}}}%
+    \put(0.74182603,0.56262539){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{6,8k}}}%
+    \put(0.43404177,0.46003881){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1k}}}%
+    \put(0.69907821,0.30615893){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1k}}}%
+    \put(0.23312705,0.47115236){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{GND}}}%
+    \put(0.41266786,0.43695683){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{GND}}}%
+    \put(0.19037924,0.1206482){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{GND}}}%
+    \put(0.58365911,0.43695683){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{GND}}}%
+    \put(0.71190255,0.43695683){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{GND}}}%
+    \put(0.75465036,0.43695683){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{GND}}}%
+    \put(0.28314199,0.55322162){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{100nF}}}}%
+    \put(0.11343317,0.47115236){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{GND}}}%
+    \put(0.18717274,0.33137661){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{	}}}%
+    \put(0.64778084,0.35574245){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{50k}}}%
+    \put(0.57624743,0.2198137){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1M}}}%
+    \put(0.75465036,0.29162584){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{GND}}}%
+    \put(0.5195374,0.45832903){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{500k}}}%
+    \put(0.53962887,0.21981523){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{100nF}}}}%
+    \put(0.60075824,0.18903925){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{GND}}}%
+    \put(0.1831121,0.21810545){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{100nF}}}%
+    \put(0.59220868,0.29418897){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{TL074P}}}%
+    \put(0.50671305,0.48825012){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{TL074P}}}%
+    \put(0.63495649,0.496799){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{TL074P}}}%
+    \put(0.80594772,0.48825012){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{TL074P}}}%
+    \put(0.17328011,0.52244564){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{HFBR-2416}}}%
+    \put(0.22885227,0.34890335){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{33}}}%
+    \put(0.31456122,0.37326613){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{	}}}%
+    \put(0.31862267,0.30017472){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{GND}}}%
+    \put(0.28314199,0.33095069){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{1µF}}}}%
+    \put(0.14947437,0.60545376){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{R_RECEIVER}}}%
+    \put(0.28792975,0.50962233){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{R4}}}}%
+    \put(0.55373565,0.51039172){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{R7}}}%
+    \put(0.68197908,0.5189406){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{R8}}}%
+    \put(0.73327646,0.5189406){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{R9}}}%
+    \put(0.72558185,0.48098357){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{C3}}}%
+    \put(0.59733842,0.48098357){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{C2}}}%
+    \put(0.80466534,0.54467274){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{C4}}}}%
+    \put(0.12711247,0.5151791){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{C1}}}%
+    \put(0.18396706,0.16681215){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{X1-1}}}}%
+    \put(0.18063274,0.14965638){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{1}}}}%
+    \put(0.20106619,0.16681215){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{X1-2}}}}%
+    \put(0.19773186,0.14965638){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{2}}}}%
+    \put(0.21816532,0.16681215){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{X1-3}}}}%
+    \put(0.21483098,0.14965638){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{3}}}}%
+    \put(0.74182603,0.57878278){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{R10}}}%
+    \put(0.43404177,0.4761962){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{R5}}}%
+    \put(0.69907821,0.32231632){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{R6}}}%
+    \put(0.26604286,0.55322162){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{C5}}}}%
+    \put(0.16287345,0.31342395){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{DIODE}}}%
+    \put(0.64778084,0.363009){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{R3}}}%
+    \put(0.64686818,0.34411597){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{3}}}%
+    \put(0.67035168,0.34411597){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1}}}%
+    \put(0.65940824,0.3291829){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{2}}}}%
+    \put(0.57254197,0.20365631){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{R12}}}%
+    \put(0.50152561,0.4723492){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{3}}}%
+    \put(0.52500911,0.4723492){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1}}}%
+    \put(0.51406568,0.45741613){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{2}}}}%
+    \put(0.5195374,0.44849782){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{R11}}}%
+    \put(0.52252975,0.21981523){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{C7}}}}%
+    \put(0.1831121,0.22665433){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{C9}}}%
+    \put(0.59220868,0.2664051){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{IC2A}}}%
+    \put(0.56137256,0.29282268){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2}}}%
+    \put(0.56137256,0.27572492){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{3}}}%
+    \put(0.60195518,0.2842738){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1}}}%
+    \put(0.48442649,0.49799584){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{6}}}%
+    \put(0.48442649,0.51509361){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{5}}}%
+    \put(0.52500911,0.50654472){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{7}}}%
+    \put(0.51526261,0.51603399){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{IC2B}}}%
+    \put(0.61266993,0.50654472){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{9}}}%
+    \put(0.60867943,0.52364249){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{10}}}%
+    \put(0.65325256,0.51509361){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{8}}}%
+    \put(0.64350606,0.52458287){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{IC2C}}}%
+    \put(0.77967064,0.49799584){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{13}}}%
+    \put(0.77967064,0.51509361){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{12}}}%
+    \put(0.8242438,0.50654472){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{14}}}%
+    \put(0.81449729,0.51603399){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{IC2D}}}%
+    \put(0.58246218,0.2994908){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{4}}}}%
+    \put(0.58246218,0.2586821){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{11}}}}%
+    \put(0.19326921,0.56262408){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{VCC}}}%
+    \put(0.22389352,0.5663869){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{6}}}%
+    \put(0.19740223,0.54552632){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{DO}}}%
+    \put(0.22389352,0.54928914){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2}}}%
+    \put(0.19220033,0.53697744){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{GND}}}%
+    \put(0.22389352,0.54074026){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{3}}}%
+    \put(0.23432399,0.53219138){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{7}}}%
+    \put(0.14763143,0.57587616){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{RECEIVER_DIODE}}}%
+    \put(0.22885227,0.36506073){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{R_VOR1}}}%
+    \put(0.30059447,0.36599958){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{LED}}}%
+    \put(0.26604286,0.33095069){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{C6}}}}%
+    \put(0.8435658,0.33223302){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{X2-1}}}%
+    \put(0.826409,0.33556709){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1}}}%
+    \put(0.8435658,0.31513526){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{X2-2}}}%
+    \put(0.826409,0.31846932){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{RxSchematic.pdf}}%
+    \put(0.29810372,0.55364906){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{RAW_SIGNAL}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{RxSchematic.pdf}}%
+    \put(0.29810372,0.55364906){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{RAW_SIGNAL}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{RxSchematic.pdf}}%
+    \put(0.41272948,0.51090466){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{RAW_SIGNAL}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{RxSchematic.pdf}}%
+    \put(0.8538253,0.5365513){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{POST_FILTER}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{RxSchematic.pdf}}%
+    \put(0.44621514,0.21169379){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{POST_FILTER}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{RxSchematic.pdf}}%
+    \put(0.14050493,0.13475232){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{V+}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{RxSchematic.pdf}}%
+    \put(0.10630668,0.61349124){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{V+}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{RxSchematic.pdf}}%
+    \put(0.58878885,0.31428037){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{V+}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{RxSchematic.pdf}}%
+    \put(0.24680635,0.13475385){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{V-}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{RxSchematic.pdf}}%
+    \put(0.58878885,0.24588932){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{V-}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{RxSchematic.pdf}}%
+    \put(0.5545906,0.56219795){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{POST_AMP}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{RxSchematic.pdf}}%
+    \put(0.10551681,0.32282926){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{POST_AMP}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{RxSchematic.pdf}}%
+    \put(0.80252793,0.35702478){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{FINAL_OUTPUT}}}%
+    \put(0.78884865,0.12919708){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Optische	Übertragungsstrecke}}}%
+    \put(0.6093078,0.12919708){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Semesterprojekt}}}%
+    \put(0.6093078,0.08894891){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Dennis	Ernst}}}%
+    \put(0.6093078,0.07790378){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Clemens	Büsch}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{RxSchematic.pdf}}%
+    \put(0.15404359,0.54809229){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{LL}}}}%
+    \put(0.16473055,0.53099453){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Rx}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{RxSchematic.pdf}}%
+    \put(0.7931234,0.11209931){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Empfangseinheit}}}%
+    \put(0.7931234,0.09500155){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{nicht	gespeichert!}}}%
+    \put(0.8380086,0.07790378){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1/1}}}%
+    \put(0.79226843,0.07747634){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Sheet:}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{RxSchematic.pdf}}%
+    \put(0.06441495,0.57420089){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{A}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{RxSchematic.pdf}}%
+    \put(0.06441495,0.42993851){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{B}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{RxSchematic.pdf}}%
+    \put(0.06405866,0.28567612){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{C}}}%
+    \put(0.06405866,0.14141374){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{D}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{RxSchematic.pdf}}%
+    \put(0.14242984,0.06287089){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{RxSchematic.pdf}}%
+    \put(0.28421008,0.06287089){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{RxSchematic.pdf}}%
+    \put(0.42599032,0.06287089){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{3}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{RxSchematic.pdf}}%
+    \put(0.56777057,0.06287089){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{4}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{RxSchematic.pdf}}%
+    \put(0.70955081,0.06287089){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{5}}}%
+    \put(0.85133102,0.06287089){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{6}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{RxSchematic.pdf}}%
+    \put(0.92792081,0.57420089){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{A}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{RxSchematic.pdf}}%
+    \put(0.92792081,0.42993851){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{B}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{RxSchematic.pdf}}%
+    \put(0.92756451,0.28567612){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{C}}}%
+    \put(0.92756451,0.14141374){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{D}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{RxSchematic.pdf}}%
+    \put(0.14242984,0.65274375){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{1}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{RxSchematic.pdf}}%
+    \put(0.28421008,0.65274375){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{2}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{RxSchematic.pdf}}%
+    \put(0.42599032,0.65274375){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{3}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=30]{RxSchematic.pdf}}%
+    \put(0.56777057,0.65274375){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{4}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=31]{RxSchematic.pdf}}%
+    \put(0.70955081,0.65274375){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{5}}}%
+    \put(0.85133102,0.65274375){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{6}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=32]{RxSchematic.pdf}}%
+  \end{picture}%
+\endgroup%
