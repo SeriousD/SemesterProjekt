@@ -1,9 +1,10 @@
 \subsection{Diodentreiber}
+\label{sec:ksq}
 \noindent
 \begin{floatingfigure}[r]{6.5cm}
 \includegraphics[width=6cm]{gfx/diodentreiber.pdf}
 \caption{Diodentreiber}
-\label{fig:comp}
+\label{fig:diodedriver}
 \end{floatingfigure}
 \noindent
 Als Sendediode wird die Hochleistungsdiode \textsc{HFBR-1412} verwendet. Diese benötigt minimal $30mA$ und maximal $120mA$. Da eine Diode ein Halbleiter ist, hat diese iene exponentielle Span\-nungs-Strom Kennlinie. Bei einer Versorgung mit konstanter Spannung kann durch thermische Rückkopplung der Strom, und damit die Verlustleistung, unkontrolliert ansteigen. Dies kann zur Zer\-störung des Bauteils führen. Aufgrund dessen wird der Diodentreiber als Konstantstromquelle (KSQ) ausgeführt. \\
@@ -14,4 +15,4 @@ Der Strom berechnet sich wie folgt.
 I_{konst} = \frac{U_z-U_{BE}}{R_9+R_{11}}
 \end{align} 
 Durch den Reihenwiderstand $R_{11}$	ist sichergestellt, dass auch bei Anschlag der Potentiometers zu $0\Omega$ der Strom nicht $130mA$ übersteigt. Der gesamte Einstellbereich für den Diodenstrom liegt bei $36mA < I_{konst}< 110mA$.
-	
+\newpage

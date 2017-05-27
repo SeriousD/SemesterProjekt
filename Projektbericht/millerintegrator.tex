@@ -1,14 +1,15 @@
 \subsection{Dreiecksgenerator}
+\label{sec:miller}
 \begin{figure}[H]
 \centering
  \includegraphics[scale=1]{gfx/triangle_generator.pdf}
  \caption{Miller Integrator}
-	\label{triangle} 
+	\label{fig:triangle} 
 \end{figure}
 Für die Generierung eines Dreiecksignals wurde ein Miller-Integrator verwendet.
 Die Grundlage für die Schaltung liegt in einer Applicationnote von TI\footnote{ Texas Instruments,Appnote 20, Seite 24, www.ti.com/lit/an/snoa621c/snoa621c.pdf}
 Das Grundprinzip dieser Schaltung besteht aus einem Intergrator, welcher auf einen invertierenden Schmitt-Trigger rückgekoppelt ist.
-Der linke Operationsverstärker bildet mit $R_4$ und $R_3$ den Schmitt-Trigger. Der Integrator besteht aus $R_8$,$C_1$ und dem rechten Operationsverstärker in Abbildung \ref{triangle}.
+Der linke Operationsverstärker bildet mit $R_4$ und $R_3$ den Schmitt-Trigger. Der Integrator besteht aus $R_8$,$C_1$ und dem rechten Operationsverstärker in Abbildung \ref{fig:triangle}.
 Frequenzbestimmend sind in dieser Schaltung alle Bauteile. Durch $R_4$ und $R_3$ werden die Schaltschwellen, und damit die Amplitude bestimmt. Diese berechnet sich wie folgt: 
 \begin{equation}
 U_H = \pm\frac{R_3}{R_4}\cdot V_{cc}
