@@ -12,7 +12,7 @@ Bericht:
 - Fehler der 30kV & 100kV Messung (Regressionsgrade) angeben	-> 
 					30kV: 0,28%
 					100kV: 2,47%
-					R² berechnen		->
+					R² berechnen		-> DONE 
 - mehr Referenzieren						-> 
 - Oszilogramme den Messpins zuordnen				->
 - Schaltplan um die Messpunkte ergänzen	(Inkscape)		->

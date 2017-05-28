@@ -11,16 +11,31 @@ Zur Justierung der Übertragungsstrecke sind folgende Rahmenbedingungen zu beach
 \subsection{Berechnung des Innenwiderstandes}
 Es besteht die Möglichkleit die Impedanz der Sendeeinheit mittels Kippschalter umzuschalten. In der ersten Schalterstellung kann eine Impedanz von 0 bis $10k\Omega$ vorgegeben werden, in der zweiten eine Impedanz von 0 bis $50k\Omega$. Diese werden mittels Trimmpotentiometers eingestellt. 
 \subsection{Messergebnisse}
+Wie in Abb. \ref{fig:9k89} zu sehen ist, verhält sich der Aufbau über den gesamten 100kV Messbereich linear. Die Funktion der dargestellten Regressionsgeraden lautet:
+\begin{equation}
+y_i = 50,387569655 \cdot x_i - 0,97547594819
+\label{math:regress100kV}
+\end{equation} 
   	\begin{figure}[H]
 		\input{gfx/just/plot8k4.pgf}
-		
+		\caption{Messwerte mit Regressionsgeraden}
+			\label{fig:9k89}
 		\end{figure}
+		Der Widerstand wurde für einen Umrechnungsfaktor von 50000 auf $9,89k\Omega$ eingestellt.
 		\begin{figure}[H]
 	\input{gfx/just/plot8k4.tex}
 	\end{figure}
+Auch in Abb. \ref{fig:2k97} ist zu sehen, dass sich der Aufbau über den gesamten 30kV Messbereich linear verhält. Die Funktion der dargestellten Regressionsgeraden lautet:
+	\begin{equation}
+	y_i = 15,1468815033 \cdot x_i - 0,348516015902
+	\label{math:regress30kV}
+	\end{equation} 
 	\begin{figure}[H]
 		\input{gfx/just/plot28k.pgf}
+		\caption{Messwerte mit Regressionsgeraden}
+			\label{fig:2k97}
 		\end{figure}
+				Der Widerstand wurde für einen Umrechnungsfaktor von 15000 auf $2,97k\Omega$ eingestellt.
 		\begin{figure}[H]
 	\input{gfx/just/plot28k.tex}
 	\end{figure}
@@ -41,6 +56,24 @@ R^{2} = 1 - \frac{\sum \limits_{i=1}^n (y_i - \hat{y_i})^{2}}{\sum \limits_{i=1}
 wobei:
 \begin{align*}
 y_i &= \text{y-Werte der Messung}\\
-\hat{y}_i &= \text{y-Werte des Regeressionsmodells}\\
+\hat{y}_i &= \text{y-Werte des Regeressionsmodells (siehe Formel \ref{math:regress100kV} bzw. \ref{math:regress30kV})}\\
 \bar{y} &= \text{Mittelwert der y-Werte}
 \end{align*}
+
+\subsection{30kV Messung}
+
+\begin{equation}
+R^{2} = 1 - \frac{\sum \limits_{i=1}^n (y_i - \hat{y_i})^{2}}{\sum \limits_{i=1}^n (y_i - \bar{y})^{2}} = 1 - \frac{0,1322879878}{2215,9923817778} = 0,999940303
+\label{math:30kV_result}
+\end{equation}
+
+Das Ergebnis der Berechnung aus Formel \ref{math:30kV_result} für die Regressionsgerade bedeutet, dass das Modell zu $99,99\%$ zutrifft. Der Umrechnungsfaktor von 15000 hat dementsprechend einen zu vernachlässigenden Fehler von $0,01\%$.
+
+\subsection{100kV Messung}
+
+\begin{equation}
+R^{2} = 1 - \frac{\sum \limits_{i=1}^n (y_i - \hat{y_i})^{2}}{\sum \limits_{i=1}^n (y_i - \bar{y})^{2}} = 1 - \frac{2,7174645603}{10679,9212545455} = 0,9997455539
+\label{math:100kV_result}
+\end{equation}
+
+Das Ergebnis für die 100kV Berechnung aus Formel \ref{math:100kV_result} trifft für die Regressionsgerade zu $99,97\%$ zu. Der Umrechnungsfaktor von 50000 hat dementsprechend einen ebenfalls zu vernachlässigenden Fehler von $0,03\%$.
