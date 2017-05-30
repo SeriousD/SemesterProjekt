@@ -17,31 +17,34 @@ y_i = 50,387569655 \cdot x_i - 0,97547594819
 \label{math:regress100kV}
 \end{equation} 
   	\begin{figure}[H]
-		\input{gfx/just/plot8k4.pgf}
-		\caption{Messwerte mit Regressionsgeraden}
-			\label{fig:9k89}
-		\end{figure}
-		Der Widerstand wurde für einen Umrechnungsfaktor von 50000 auf $9,89k\Omega$ eingestellt.
-		\begin{figure}[H]
-	\input{gfx/just/plot8k4.tex}
+  	\begin{center}
+  	
+  	\caption{Messwerte mit Regressionsgeraden\label{fig:9k89}}
+		\input{gfx/just/9k89.pgf}
+		\end{center}
 	\end{figure}
+	Der Widerstand wurde für einen Umrechnungsfaktor von 50000 auf $9,89k\Omega$ eingestellt.
+	\begin{figure}[H]
+	\input{gfx/just/9k89_TexTable.tex}
+	\end{figure}
+	
+	
 Auch in Abb. \ref{fig:2k97} ist zu sehen, dass sich der Aufbau über den gesamten 30kV Messbereich linear verhält. Die Funktion der dargestellten Regressionsgeraden lautet:
 	\begin{equation}
 	y_i = 15,1468815033 \cdot x_i - 0,348516015902
 	\label{math:regress30kV}
 	\end{equation} 
 	\begin{figure}[H]
-		\input{gfx/just/plot28k.pgf}
-		\caption{Messwerte mit Regressionsgeraden}
-			\label{fig:2k97}
+	\caption{Messwerte mit Regressionsgeraden\label{fig:2k97}}
+		\input{gfx/just/2k97.pgf}		
 		\end{figure}
 				Der Widerstand wurde für einen Umrechnungsfaktor von 15000 auf $2,97k\Omega$ eingestellt.
 		\begin{figure}[H]
-	\input{gfx/just/plot28k.tex}
+	\input{gfx/just/2k97_TexTable.tex}
 	\end{figure}
 
 \subsection{Qualität der Regressionsgeraden}
-\begin{figure}[H]
+\begin{figure}[!htbp]
 \centering
  %\includegraphics[scale=1]{gfx/30kV_Messung.pdf}
  %\caption{krasse python grafik}
@@ -67,6 +70,23 @@ R^{2} = 1 - \frac{\sum \limits_{i=1}^n (y_i - \hat{y_i})^{2}}{\sum \limits_{i=1}
 \label{math:30kV_result}
 \end{equation}
 
+\begin{table}[H]
+  \caption{ Regressionsmodelle für $2,97 \Omega$ Impedanz}
+  \begingroup
+ 
+\renewcommand{\arraystretch}{1.5} % Default value: 1
+   \begin{tabular}{|c|c|c|}
+   \hline
+      & Steigung nach Modell & Steigung gerundet     \\
+      \hline
+    Ordinate nach Modell      & $y=m_{orignal}*x+b_{original}$      & $y=m_{gerundet}*x+b_{original}$ \\
+     \hline
+    Ordinate im Ursprung      & $y=m_{orignal}*x+0$      & $y=m_{gerundet}*x+0$ \\
+ \hline
+  \end{tabular}
+  \endgroup
+\end{table}
+
 Das Ergebnis der Berechnung aus Formel \ref{math:30kV_result} für die Regressionsgerade bedeutet, dass das Modell zu $99,99\%$ zutrifft. Der Umrechnungsfaktor von 15000 hat dementsprechend einen zu vernachlässigenden Fehler von $0,01\%$.
 
 \subsection{100kV Messung}
@@ -76,4 +96,22 @@ R^{2} = 1 - \frac{\sum \limits_{i=1}^n (y_i - \hat{y_i})^{2}}{\sum \limits_{i=1}
 \label{math:100kV_result}
 \end{equation}
 
+
+\begin{table}[H]
+  \caption{ Regressionsmodelle für $9,89 \Omega$ Impedanz}
+  \begingroup
+\renewcommand{\arraystretch}{1.5} % Default value: 1
+   \begin{tabular}{|c|c|c|}
+   \hline
+      & Steigung nach Modell & Steigung gerundet     \\
+      \hline
+    Ordinate nach Modell      & $y=m_{orignal}*x+b_{original} $   & $ y=m_{gerundet}*x+b_{original}$ \\
+     \hline
+    Ordinate im Ursprung      & $y=m_{orignal}*x+0 $     &$ y=m_{gerundet}*x+0$ \\
+ \hline
+  \end{tabular}
+  \endgroup
+\end{table}
+
 Das Ergebnis für die 100kV Berechnung aus Formel \ref{math:100kV_result} trifft für die Regressionsgerade zu $99,97\%$ zu. Der Umrechnungsfaktor von 50000 hat dementsprechend einen ebenfalls zu vernachlässigenden Fehler von $0,03\%$.
+

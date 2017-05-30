@@ -8,7 +8,8 @@ Durch diese Anordnung ist jedoch nicht garantiert, dass das Messignal bei variie
 \subsubsection{Frequenzmodulation}
 \begin{figure}[H]
 \centering
-  \scalebox{0.7}{\begin{large}$\input{fm.tex}$\end{large}}
+  %\scalebox{0.7}{\begin{large}$\input{fm.tex}$\end{large}}
+  \input{gfx/modulations/FM.pgf}
   \caption{Frequenzmodulation}
   \label{fig:fm}
 \end{figure}
@@ -18,7 +19,8 @@ Eine Implementierung einer solchen Modulation ist mit einem Voltage contolled os
 \subsubsection{Amplitudenmodulation}
 \begin{figure}[H]
 \centering
-  \scalebox{0.7}{\begin{large}$\input{am.tex}$\end{large}}
+  %\scalebox{0.7}{\begin{large}$\input{am.tex}$\end{large}}
+  \input{gfx/modulations/AM.pgf}
   \caption{Amplitudenmodulation}
   \label{fig:am}
 \end{figure}
@@ -30,9 +32,10 @@ Da bei dieser Modulation die Information genauso wie bei der direkten Übertragu
 \subsubsection{Pulsweitenmodulation}
 \begin{figure}[H]
 \centering
-  \scalebox{0.7}{\begin{large}
-  $\input{pwm.tex}$
-  \end{large}}
+  %\scalebox{0.7}{\begin{large}
+  %$\input{pwm.tex}$
+  %\end{large}}
+  \input{gfx/modulations/PWM.pgf}
   \caption{Pulsweitenmodulation}
   \label{fig:pwm}
 \end{figure}
@@ -50,29 +53,30 @@ Eine unmodulierte Übertragung ist aufgrund der Leitungsdämpfung ausgeschlossen
   \caption{Genereller Systemaufbau}
   \label{fig:psystem}
 \end{figure}
-Die Evaluation der drei verbliebenen Varianten liefert die Pulsweitenmodulation (PWM) als optimales Ergebnis:
-Im Gegensatz zu allen analogen Übertragungsverfahren lässt sich die PWM durch Übersteuerung des Eingangsverstärkers der Empfängereinheit sehr einfach rekonstruieren und ist demnach unempfindlich gegenüber Variationen der Dämpfung der Leitungslänge. Darüber hinaus ist die Synthese sowie Demodulation einer PWM mit einfachen Mitteln umzusetzen.\\
+Die Evaluation der drei verbliebenen Varianten liefert die Pulsweitenmodulation (PWM) als optimales Ergebnis:Im Gegensatz zu allen analogen Übertragungsverfahren lässt sich die PWM durch Übersteuerung des Eingangsverstärkers der Empfängereinheit sehr einfach rekonstruieren und ist demnach unempfindlich gegenüber Variationen der Dämpfung der Leitungslänge. Darüber hinaus ist die Synthese sowie Demodulation einer PWM mit einfachen Mitteln umzusetzen.\\
 Neben den grundlegenden Aufgaben des Systems, wie Modulation und Demodulation, müssen noch weitere Komponenten wie eine Endstufe und eine Schutzschaltung gegenüber der Hochspannung im System verbaut werden. 
 Aus allen vorangegangen Überlegungen geht folgender Systemaufbau hervor: 
 \begin{figure}[H]
   \centering
-  \input{systemaufbau.pdf_tex}
+  \scalebox{0.97}{
+  \input{systemaufbau.pdf_tex}}
   \caption{Systemaufbau}
   \label{fig:system}
 \end{figure}
 
 \subsection{Pulsweitenmodulation - Theorie}
 \label{sec:pwmTheory}
-Im wesentlichen basiert die Funktionsweise einer PWM auf der Variation des Tastverhältnisses einer Rechteckspannung. Durch die Änderung des Tastverhältnis wird der Effektivwert der Rechteckspannung verändert, dieser berechnet sich wie folgt:\\
+Im wesentlichen basiert die Funktionsweise einer PWM auf der Variation des Tastverhältnisses einer Rechteckspannung. Durch die Änderung des Tastverhältnis wird der Effektivwert der Rechteckspannung verändert, dieser berechnet sich wie folgt:
 \begin{equation}
  U_{eff} = \sqrt{\frac{1}{T}\cdot\int\limits_{0}^T u(t)^2 dt}
 \end{equation}
 Offensichtlich ist der Effektivwert von dem Integral der Kurve über eine Periode, also der Fläche unter der Kurve, abhängig. Diese Fläche wird wie bereits beschrieben über das Tastverhältnis bestimmt. So kann jede Perdiode des Rechteckssignals als ein Abstastwert des Nachrichtensignals interpretiert werden. Dieses Integral ist beispielhaft für 2 Perioden eines Sinussignals in Abbildung \ref{fig:pwmArea} dargestellt. Aufgrund dieser Abtastung ist es wichtig, dass zur optimalen Rekonstruktion das 50 Hz Eingangssignal um ein Vielfaches abgetastet wird. Für diese Anwendung wurde eine 200-fache Überabtastung von $f_A=10kHz$ gewählt.
 \begin{figure}[H]
   \centering
-   \scalebox{0.6}{\begin{Large}
-   \input{pwmArea.tex}
-   \end{Large}}
+   %\scalebox{0.6}{\begin{Large}
+   %\input{pwmArea.tex}
+   %\end{Large}}
+   \input{gfx/modulations/PWMarea.pgf}
    \caption{Pulsweitenmodulation Illustration}
   \label{fig:pwmArea}
 \end{figure}

@@ -3,7 +3,8 @@
 Die Dimensionierung des Tiefpasses ist von zentraler Bedeutung bei der Rekonstruktion des Nachrichtensignals. Neben der Filtersteilheit und der Restwelligkeit sind Kennwerte wie Ausgangs- und Eingangswiderstand wichtig für die optmale Gestaltung des Tiefpasses.
 \subsubsection{Filtercharakteristiken im Vergleich} 
 \begin{floatingfigure}[r]{7cm}
-	\includegraphics[width=6.5cm]{gfx/simRx/characteristics.png}
+	\centering
+	\includegraphics[width=6.45cm]{gfx/simRx/characteristics.png}
 	\caption{Filtercharakteristiken}
 \label{fig:characteristics}
 \end{floatingfigure}
@@ -14,7 +15,7 @@ Bei aktiven und mehrstufigen Filtertopologien gibt es eine große Auswahl an Fit
 Zur Dimensionierung des Filters wurde die Designsoftware \textsc{FilterPro} von Texas Instruments verwendet. Als Designparameter wurden neben der Butter\-worth-Charakteristik, eine Verstärkung von 0dB, eine Dämpfung von 9dB je Dekade (Filter 3. Ordnung), Bauteile der E12 Reihe, eine Grenzfrequenz von $f_g=100Hz$ und eine Multiple-Feedback Topologie vorgegeben. Diese Topologie hat im Gegensatz zur Sallen-Key Topologie den Vorteil eines hohen Ausgangswiderstandes. Die Verstärkung von 0dB wird gewählt, da eine Endstufe mit variabler Verstärkung dieser Komponente folgt.
 \begin{figure}[H]
 	\centering
-	\includegraphics[scale=0.575]{gfx/Butterworth_FilterPro.png}
+	\includegraphics[scale=0.565]{gfx/Butterworth_FilterPro.png}
 	\caption{Auszug Design Report}
 	\label{fig:design_report}
 \end{figure}
@@ -27,12 +28,3 @@ Der Designreport zeigt die gewünschten Filterparameter. Besonders wichtig an di
 \end{figure}
 \noindent
 Der Widerstand $R_7$ und der Kondensator $C_2$ bilden als passiver Tiefpass die erste Filterstufe. Diese ist mit dem linken Operationsverstärker, welcher als Spannungsfolger beschaltet ist von der nachfolgenden zweiten Filterstufe entkoppelt. Mit $R_8$ und $C_3$ folgt ein weiterer passiver Tiefpass. Der letzte Teil des Filters ist ein aktiver Tiefpass, der sich aus dem zweiten Operationsverstärker und den Widerständen $R_9$ ,$R_{10}$, sowie dem Kondensator $C_4$ zusammensetzt.
-
-
-
-
-
-
-
-
->>>>>>>

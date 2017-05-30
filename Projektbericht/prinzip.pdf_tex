@@ -54,7 +54,7 @@
     \put(0.14166635,0.04374194){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Modulator}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{prinzip.pdf}}%
     \put(0.41271488,0.10299347){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.17190276\unitlength}\raggedright \end{minipage}}}%
-    \put(0.4157686,0.07950616){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.16819801\unitlength}\raggedright \begin{centering}\begin{small} LWL-\\ Übertragung \end{small}\end{centering}\\ \\ \end{minipage}}}%
+    \put(0.4157686,0.07950616){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.16819801\unitlength}\raggedright \begin{centering}\begin{small} LWL-\\ Übertragung \end{small}\end{centering}\\ \end{minipage}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{prinzip.pdf}}%
     \put(0.70356805,0.04374182){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Demodulator}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{prinzip.pdf}}%

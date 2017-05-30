@@ -4,8 +4,8 @@
 Die folgenden Grafiken(Abb. \ref{fig:measMiller}) zeigen das Eingangssignal(obere Kurve), das Dreieckssignal des Miller-Integrator(mittlere Kurve) und die daraus synthetisierte PWM(untere Kurve) in jeweils 2 Zeitauflösungen. Die obere Grafik ist dabei mit 2 ms/DIV und die untere Grafik mit 1ms/DIV aufgelöst. Diese Messung bestätigt damit die Simluation aus Abschnitt \ref{sec:simMiller}. Die Frequenz des wurde zu Demonstrationszwecken auf ca. 2kHz verringert um die Änderung des Tastverhältnisses des Rechtecksignals reltiv zum Eingangssignal darzustellen. Gut zu erkennen ist, dass sich die Fläche unter dem Rechtecksignal relativ zum Eingangssignal ändert und damit der Effektivwert des Rechtecksignals.(siehe Abschnitt \ref{sec:pwmTheory}).
 \begin{figure}[H]
 	\centering
-	\includegraphics[scale=0.5]{gfx/osziScreens/scope_3.png}
-	\includegraphics[scale=0.5]{gfx/osziScreens/scope_4.png}
+	\includegraphics[scale=0.45]{gfx/osziScreens/scope_3.png}
+	\includegraphics[scale=0.45]{gfx/osziScreens/scope_4.png}
 	\caption{Eingangssignal,Dreieck und PWM}
 	\label{fig:measMiller}
 \end{figure}
@@ -13,8 +13,8 @@ Die folgenden Grafiken(Abb. \ref{fig:measMiller}) zeigen das Eingangssignal(ober
 Die folgenden Messungen zeigen die Filterung des Empfangssignals in verschiedenen Filterstufen(Kurven je Grafik) und zu verschiedenen Zeitauflösung\-en(obere und untere Grafik). Die obere Kurve zeigt das empfangene Signal direkt vor dem Tiefpass. Die mittlere Kurve zeigt das Signal nach dem passiven Tiefpass(vgl. Abb. \ref{fig:design_report} $R_1,C_1$). Die untere Kurve zeigt das empfangene Signal nach dem Tiefpass und vor dem Endverstärker. Die Grafiken zeigen die Kurven jeweils bei einer Zeitauflösung von 10ms/DIV(obere Grafik) und 2ms/DIV(untere Grafik. Bei der Zeitauflösung von 2ms/DIV ist sehr gut zu erkennen, dass nach dem ersten Tiefpass, das Signal aus einem Sinus, welcher mit einem Dreieckssignal überlagert ist, besteht und nach weiterer Filterung dieses hochfrequente Dreieckssignal komplett verschwindet. Dies bestätigt den Frequenzgang aus Abbildung \ref{fig:frequencyResponse}.
 \begin{figure}[H]
 	\centering
-	\includegraphics[scale=0.5]{gfx/osziScreens/scope_10.png}
-\includegraphics[scale=0.5]{gfx/osziScreens/scope_11.png}
+	\includegraphics[scale=0.45]{gfx/osziScreens/scope_10.png}
+\includegraphics[scale=0.45]{gfx/osziScreens/scope_11.png}
 	\caption{Emfangssignal in verschiedenen Filterstufen}
 \end{figure}
 \subsection{Gesamtsystem}
