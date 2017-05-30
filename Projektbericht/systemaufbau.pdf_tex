@@ -55,16 +55,16 @@
     \put(0.8340309,0.04774962){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Endstufe}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{systemaufbau.pdf}}%
     \put(0.29534253,0.14869674){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{}}}%
-    \put(0.02014115,0.24886494){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.16221218\unitlength}\centering Eingangs-\\\\ stufe\end{minipage}}}%
+    \put(0.02014115,0.24886494){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.16221218\unitlength}\centering Eingangs-\\ stufe\end{minipage}}}%
     \put(0.15097614,0.84226678){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.40635233\unitlength}\raggedright \end{minipage}}}%
-    \put(0.02907106,0.37224542){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14479567\unitlength}\centering Dreiecks-\\\\ generator\end{minipage}}}%
-    \put(0.55330831,0.3073111){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.1519782\unitlength}\centering Dioden-\\\\ treiber\end{minipage}}}%
-    \put(0.81346502,0.30690361){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.15932457\unitlength}\centering Lichtwellen-\\\\ leiter\end{minipage}}}%
-    \put(0.53772045,0.07910817){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.18282015\unitlength}\centering Butterworth-\\\\ tiefpass\end{minipage}}}%
+    \put(0.02907106,0.37224542){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.14479567\unitlength}\centering Dreiecks-\\ generator\end{minipage}}}%
+    \put(0.55330831,0.3073111){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.1519782\unitlength}\centering Dioden-\\ treiber\end{minipage}}}%
+    \put(0.81346502,0.30690361){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.15932457\unitlength}\centering Lichtwellen-\\ leiter\end{minipage}}}%
+    \put(0.53772045,0.07910817){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.18282015\unitlength}\centering Butterworth-\\ tiefpass\end{minipage}}}%
     \put(0.67682659,0.2184304){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.35584672\unitlength}\raggedright \end{minipage}}}%
-    \put(0.28575902,0.08128242){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.16070202\unitlength}\centering Signal-\\\\ aufbereitung\end{minipage}}}%
+    \put(0.28575902,0.08128242){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.16070202\unitlength}\centering Signal-\\ aufbereitung\end{minipage}}}%
     \put(0.00375822,0.13076063){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.19683752\unitlength}\raggedright Empfangseinheit:\end{minipage}}}%
     \put(0.00475487,0.41530291){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.2112889\unitlength}\raggedright Sendeeinheit:\end{minipage}}}%
-    \put(0.02169528,0.07625732){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.15932457\unitlength}\centering Lichtwellen-\\\\ leiter\end{minipage}}}%
+    \put(0.02169528,0.07625732){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.15932457\unitlength}\centering Lichtwellen-\\ leiter\end{minipage}}}%
   \end{picture}%
 \endgroup%
