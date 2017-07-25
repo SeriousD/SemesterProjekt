@@ -19,24 +19,27 @@
 \contentsline {section}{\numberline {5}Schaltungsentwurf - Empfangseinheit}{14}
 \contentsline {subsection}{\numberline {5.1}Beschaltung der Empfangsdiode}{14}
 \contentsline {subsection}{\numberline {5.2}Signalaufbereitung}{16}
-\contentsline {subsection}{\numberline {5.3}Tiefpass}{18}
-\contentsline {subsubsection}{\numberline {5.3.1}Filtercharakteristiken im Vergleich}{18}
-\contentsline {subsubsection}{\numberline {5.3.2}Dimensionierung des Filters}{18}
-\contentsline {subsection}{\numberline {5.4}Endstufe}{20}
-\contentsline {section}{\numberline {6}Simulation kritischer Schaltungsteile}{21}
-\contentsline {subsection}{\numberline {6.1}Sendeeinheit}{21}
-\contentsline {subsubsection}{\numberline {6.1.1}Eingangsteil}{21}
-\contentsline {subsubsection}{\numberline {6.1.2}Millerintegrator}{23}
-\contentsline {subsubsection}{\numberline {6.1.3}Diodentreiber}{23}
-\contentsline {subsection}{\numberline {6.2}Empfangseinheit}{24}
-\contentsline {subsubsection}{\numberline {6.2.1}Tiefpass}{24}
-\contentsline {subsubsection}{\numberline {6.2.2}Ausgangsverst\IeC {\"a}rker}{25}
-\contentsline {section}{\numberline {7}Messungen}{26}
-\contentsline {subsection}{\numberline {7.1}Sendeeinheit}{26}
-\contentsline {subsection}{\numberline {7.2}Empfangseinheit}{28}
-\contentsline {subsection}{\numberline {7.3}Gesamtsystem}{30}
-\contentsline {section}{\numberline {8}Justierung der \IeC {\"U}bertragungsstrecke}{31}
-\contentsline {subsection}{\numberline {8.1}Rahmenbedingungen}{31}
-\contentsline {subsection}{\numberline {8.2}Berechnung des Innenwiderstandes}{31}
-\contentsline {subsection}{\numberline {8.3}Messergebnisse}{32}
-\contentsline {section}{\numberline {9}Anhang}{34}
+\contentsline {subsection}{\numberline {5.3}Tiefpass}{17}
+\contentsline {subsubsection}{\numberline {5.3.1}Filtercharakteristiken im Vergleich}{17}
+\contentsline {subsubsection}{\numberline {5.3.2}Dimensionierung des Filters}{17}
+\contentsline {subsection}{\numberline {5.4}Endstufe}{19}
+\contentsline {section}{\numberline {6}Simulation kritischer Schaltungsteile}{20}
+\contentsline {subsection}{\numberline {6.1}Sendeeinheit}{20}
+\contentsline {subsubsection}{\numberline {6.1.1}Eingangsteil}{20}
+\contentsline {subsubsection}{\numberline {6.1.2}Millerintegrator}{21}
+\contentsline {subsubsection}{\numberline {6.1.3}Diodentreiber}{22}
+\contentsline {subsection}{\numberline {6.2}Empfangseinheit}{23}
+\contentsline {subsubsection}{\numberline {6.2.1}Tiefpass}{23}
+\contentsline {subsubsection}{\numberline {6.2.2}Ausgangsverst\IeC {\"a}rker}{24}
+\contentsline {section}{\numberline {7}Messungen}{25}
+\contentsline {subsection}{\numberline {7.1}Sendeeinheit}{25}
+\contentsline {subsection}{\numberline {7.2}Empfangseinheit}{26}
+\contentsline {subsection}{\numberline {7.3}Gesamtsystem}{28}
+\contentsline {section}{\numberline {8}Justierung der \IeC {\"U}bertragungsstrecke}{29}
+\contentsline {subsection}{\numberline {8.1}Rahmenbedingungen}{29}
+\contentsline {subsection}{\numberline {8.2}Berechnung des Innenwiderstandes}{29}
+\contentsline {subsection}{\numberline {8.3}Messergebnisse}{29}
+\contentsline {subsection}{\numberline {8.4}Qualit\IeC {\"a}t der Regressionsgeraden}{31}
+\contentsline {subsection}{\numberline {8.5}30kV Messung}{32}
+\contentsline {subsection}{\numberline {8.6}100kV Messung}{33}
+\contentsline {section}{\numberline {9}Anhang}{33}
